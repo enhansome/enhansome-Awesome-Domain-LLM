@@ -1,0 +1,1608 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/9/25] 更新Qwen",
+          "description": "，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T13:55:17Z",
+            "owner": "QwenLM",
+            "repo": "Qwen",
+            "stars": 21583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/9/22] 增加InternLM(书生•浦语)",
+          "description": "，上海AI实验室与商汤科技联合香港中文大学和复旦大学开源的多语基座模型。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-30T00:35:43Z",
+            "owner": "InternLM",
+            "repo": "InternLM",
+            "stars": 7263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/26] 增强网络安全大模型SecGPT",
+          "description": "、医疗大模型ChiMed-GPT、金融大模型Tongyi-Finance-14B、金融评测基准FinanceBench和CFBenchmark。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T10:03:37Z",
+            "owner": "Clouditera",
+            "repo": "SecGPT",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/01] 增加DISC-LawLLM",
+          "description": "，由复旦大学开源的旨在为用户提供专业、智能、全面的法律服务的法律领域大模型。增加FinGLM，致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T07:45:58Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-LawLLM",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/28] 增加金融大模型DISC-FinLLM",
+          "description": "、医学大模型AlpaCare、海洋大模型MarineGPT。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T16:09:31Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-FinLLM",
+            "stars": 894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11/01] 增加由蚂蚁集团联合北京大学发布的DevOps领域大模型DevOps-Model",
+          "description": "和评测基准DevOps-Eval。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-23T03:46:10Z",
+            "owner": "codefuse-ai",
+            "repo": "CodeFuse-DevOps-Model",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/03] 增加两个法律评测基准，分别为面向中国法律体系的LawBench",
+          "description": "和美国法律体系的LegalBench。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T06:42:45Z",
+            "owner": "open-compass",
+            "repo": "LawBench",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/9/15] 增加Zhongjing-LLaMA (仲景)",
+          "description": "，包含预训练、有监督微调和RLHF完整训练流程的中文医学大模型。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T13:28:54Z",
+            "owner": "SupritYoung",
+            "repo": "Zhongjing",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/9/13] 增加夫子•明察",
+          "description": "，由山东大学、浪潮云、中国政法大学联合研发的司法大模型。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T06:24:22Z",
+            "owner": "irlab-sdu",
+            "repo": "fuzi.mingcha",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/19] 增加心理大模型MentalLLaMA",
+          "description": "、双语生物医学大模型Taiyi (太一)、海洋大模型OceanGPT。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-04T10:08:22Z",
+            "owner": "SteveKGYang",
+            "repo": "MentalLLaMA",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/10] 增加由云智慧智能研究院和北航联合研发的面向运维领域的大模型OWL",
+          "description": "和评测基准OWL-Bench。增加中文法律大模型评测基准LAiW。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T09:46:38Z",
+            "owner": "HC-Guo",
+            "repo": "OWL",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10/05] 增加心理大模型ChatPsychiatrist",
+          "description": "、金融大模型InvestLM、农业大模型AgriGPT和医疗大模型WiNGPT2。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T10:37:26Z",
+            "owner": "EmoCareAI",
+            "repo": "ChatPsychiatrist",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/9/14] 增加WeaverBird (织工鸟)",
+          "description": "，可接入本地知识与网络搜索能力的金融领域对话大模型。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-06T09:13:59Z",
+            "owner": "alipay",
+            "repo": "fin_domain_llm",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "🔔 更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤖 模型"
+    },
+    {
+      "description": "领域模型通常在通用模型的基础上进行持续预训练或指令微调得到，此处整理常用的开源通用模型。",
+      "items": [],
+      "title": "🌐 通用模型"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧩 领域模型"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MedicalGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T03:39:57Z",
+            "owner": "shibing624",
+            "repo": "MedicalGPT",
+            "stars": 5712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BenTsao (本草)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T05:56:23Z",
+            "owner": "SCIR-HI",
+            "repo": "Huatuo-Llama-Med-Chinese",
+            "stars": 4983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatDoctor",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-17T22:24:31Z",
+            "owner": "Kent0n-Li",
+            "repo": "ChatDoctor",
+            "stars": 3631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HuatuoGPT (华佗)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-16T20:21:17Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XrayGLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T07:07:22Z",
+            "owner": "WangRongsheng",
+            "repo": "XrayGLM",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Med-ChatGLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T09:17:15Z",
+            "owner": "SCIR-HI",
+            "repo": "Med-ChatGLM",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CareGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-09T12:34:28Z",
+            "owner": "WangRongsheng",
+            "repo": "CareGPT",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BianQue (扁鹊)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T17:43:45Z",
+            "owner": "scutcyr",
+            "repo": "BianQue",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoctorGLM",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T06:49:02Z",
+            "owner": "xionghonglin",
+            "repo": "DoctorGLM",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QiZhenGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-09T07:07:36Z",
+            "owner": "CMKRG",
+            "repo": "QiZhenGPT",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoulChat (灵心)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-15T18:05:18Z",
+            "owner": "scutcyr",
+            "repo": "SoulChat",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindChat (漫谈)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T07:11:30Z",
+            "owner": "X-D-Lab",
+            "repo": "MindChat",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PMC-LLaMA",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T12:45:23Z",
+            "owner": "chaoyi-wu",
+            "repo": "PMC-LLaMA",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatMed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-16T14:33:10Z",
+            "owner": "michael-wzhu",
+            "repo": "ChatMed",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISC-MedLLM",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T21:33:14Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-MedLLM",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeChat",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-17T01:55:24Z",
+            "owner": "qiuhuachuan",
+            "repo": "smile",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZhongJing (仲景)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-10T06:36:59Z",
+            "owner": "pariskang",
+            "repo": "CMLM-ZhongJing",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShenNong-TCM-LLM (神农)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-31T02:59:22Z",
+            "owner": "michael-wzhu",
+            "repo": "ShenNong-TCM-LLM",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PULSE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-26T08:44:33Z",
+            "owner": "openmedlab",
+            "repo": "PULSE",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunsimiao (孙思邈)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T06:54:26Z",
+            "owner": "X-D-Lab",
+            "repo": "Sunsimiao",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WiNGPT2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-28T07:09:58Z",
+            "owner": "winninghealth",
+            "repo": "WiNGPT2",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zhongjing-LLaMA (仲景)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T13:28:54Z",
+            "owner": "SupritYoung",
+            "repo": "Zhongjing",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MentalLLaMA",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-04T10:08:22Z",
+            "owner": "SteveKGYang",
+            "repo": "MentalLLaMA",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCMLLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T02:55:49Z",
+            "owner": "2020MEAI",
+            "repo": "TCMLLM",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QiaoBan (巧板)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T02:20:56Z",
+            "owner": "HIT-SCIR-SC",
+            "repo": "QiaoBan",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiyi (太一)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-28T08:53:22Z",
+            "owner": "DUTIR-BioNLP",
+            "repo": "Taiyi-LLM",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatPsychiatrist",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T10:37:26Z",
+            "owner": "EmoCareAI",
+            "repo": "ChatPsychiatrist",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HuangDI (皇帝)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T07:34:56Z",
+            "owner": "Zlasejd",
+            "repo": "HuangDI",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChiMed-GPT",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-29T11:54:50Z",
+            "owner": "synlp",
+            "repo": "ChiMed-GPT",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlpaCare",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-08T19:17:16Z",
+            "owner": "XZhang97666",
+            "repo": "AlpaCare",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IvyGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-29T14:56:39Z",
+            "owner": "WangRongsheng",
+            "repo": "IvyGPT",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MING (明医)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-21T04:32:33Z",
+            "owner": "189569400",
+            "repo": "MedicalGPT-zh",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "🏥 医疗"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChatLaw",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-04T15:29:26Z",
+            "owner": "PKU-YuanGroup",
+            "repo": "ChatLaw",
+            "stars": 7571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaWGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T07:20:19Z",
+            "owner": "pengxiao-song",
+            "repo": "LaWGPT",
+            "stars": 6056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LawGPT_zh (獬豸)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-13T08:25:34Z",
+            "owner": "LiuHC0428",
+            "repo": "LAW-GPT",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexiLaw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T05:47:03Z",
+            "owner": "CSHaitao",
+            "repo": "LexiLaw",
+            "stars": 1040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lawyer LLaMA",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T09:23:35Z",
+            "owner": "AndrewZhe",
+            "repo": "lawyer-llama",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISC-LawLLM",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T07:45:58Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-LawLLM",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wisdomInterrogatory (智海-录问)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T02:51:29Z",
+            "owner": "zhihaiLLM",
+            "repo": "wisdomInterrogatory",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "夫子•明察",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T06:24:22Z",
+            "owner": "irlab-sdu",
+            "repo": "fuzi.mingcha",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HanFei (韩非)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T12:55:07Z",
+            "owner": "siat-nlp",
+            "repo": "HanFei",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lychee (律知)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-19T09:17:58Z",
+            "owner": "davidpig",
+            "repo": "lychee_law",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JurisLMs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-01T11:19:56Z",
+            "owner": "SEUIAI",
+            "repo": "JurisLMs",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "⚖ 法律"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FinGPT",
+          "description": "[paper1] [paper2]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T03:23:48Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinGPT",
+            "stars": 21084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinGLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-08T13:46:36Z",
+            "owner": "MetaGLM",
+            "repo": "FinGLM",
+            "stars": 2254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XuanYuan (轩辕)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T06:27:26Z",
+            "owner": "Duxiaoman-DI",
+            "repo": "XuanYuan",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISC-FinLLM",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T16:09:31Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-FinLLM",
+            "stars": 894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIXIU (貔貅)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-04T16:57:22Z",
+            "owner": "The-FinAI",
+            "repo": "PIXIU",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cornucopia (聚宝盆)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-30T07:55:51Z",
+            "owner": "jerry1993-tech",
+            "repo": "Cornucopia-LLaMA-Fin-Chinese",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBT-FinCUGE-Applications",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-10T07:17:58Z",
+            "owner": "supersymmetry-technologies",
+            "repo": "BBT-FinCUGE-Applications",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvestLM",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T08:21:47Z",
+            "owner": "AbaciNLP",
+            "repo": "InvestLM",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeaverBird (织工鸟)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-06T09:13:59Z",
+            "owner": "alipay",
+            "repo": "fin_domain_llm",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLANG",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T23:23:41Z",
+            "owner": "SALT-NLP",
+            "repo": "FLANG",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "💰 金融"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EduChat",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-18T13:22:39Z",
+            "owner": "ECNU-ICALK",
+            "repo": "EduChat",
+            "stars": 961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "桃李 (Taoli)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T04:49:21Z",
+            "owner": "blcuicall",
+            "repo": "taoli",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "🎓 教育"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T10:03:37Z",
+            "owner": "Clouditera",
+            "repo": "SecGPT",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaYi (雅意)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-17T07:37:16Z",
+            "owner": "wenge-research",
+            "repo": "YAYI",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBioMed",
+          "description": "[paper1] [paper2] [paper3]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T09:05:56Z",
+            "owner": "PharMolix",
+            "repo": "OpenBioMed",
+            "stars": 1100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransGPT (致远)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-14T11:55:09Z",
+            "owner": "DUOMO",
+            "repo": "TransGPT",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps-Model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-23T03:46:10Z",
+            "owner": "codefuse-ai",
+            "repo": "CodeFuse-DevOps-Model",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoAudit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-28T10:55:21Z",
+            "owner": "ddzipp",
+            "repo": "AutoAudit",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarWhisper (星语)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-30T18:10:43Z",
+            "owner": "Yu-Yang-Li",
+            "repo": "StarWhisper",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcomGPT",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-26T23:04:03Z",
+            "owner": "Alibaba-NLP",
+            "repo": "EcomGPT",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWL",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T09:46:38Z",
+            "owner": "HC-Guo",
+            "repo": "OWL",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TechGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-29T11:57:14Z",
+            "owner": "neukg",
+            "repo": "TechGPT",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K2",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-05T13:51:12Z",
+            "owner": "davendw49",
+            "repo": "k2",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mozi (墨子)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-01T03:46:36Z",
+            "owner": "gmftbyGMFTBY",
+            "repo": "science-llm",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarineGPT",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T08:19:02Z",
+            "owner": "hkust-vgd",
+            "repo": "MarineGPT",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgriGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-04T22:58:56Z",
+            "owner": "AgriGPTs",
+            "repo": "AgriGPTs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediaGPT",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "➕ 其他"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 数据集"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C-Eval",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-27T03:55:53Z",
+            "owner": "hkust-nlp",
+            "repo": "ceval",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLARE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-04T16:57:22Z",
+            "owner": "The-FinAI",
+            "repo": "PIXIU",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CBLUE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-03T15:28:49Z",
+            "owner": "CBLUEbenchmark",
+            "repo": "CBLUE",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMMLU",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T08:54:24Z",
+            "owner": "haonan-li",
+            "repo": "CMMLU",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGIEval",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T14:20:51Z",
+            "owner": "ruixiangcui",
+            "repo": "AGIEval",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps-Eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T03:37:38Z",
+            "owner": "codefuse-ai",
+            "repo": "codefuse-devops-eval",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegalBench",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:23:35Z",
+            "owner": "HazyResearch",
+            "repo": "legalbench",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LawBench",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T06:42:45Z",
+            "owner": "open-compass",
+            "repo": "LawBench",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptCBLUE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-23T13:53:41Z",
+            "owner": "michael-wzhu",
+            "repo": "PromptCBLUE",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinanceBench",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T17:29:02Z",
+            "owner": "patronus-ai",
+            "repo": "financebench",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFLEB",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-10T07:17:58Z",
+            "owner": "supersymmetry-technologies",
+            "repo": "BBT-FinCUGE-Applications",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinEval",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T03:39:27Z",
+            "owner": "SUFE-AIFLM-Lab",
+            "repo": "FinEval",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexGLUE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T07:39:34Z",
+            "owner": "coastalcph",
+            "repo": "lex-glue",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWL-Bench",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T09:46:38Z",
+            "owner": "HC-Guo",
+            "repo": "OWL",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xiezhi (獬豸)",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-05T11:26:48Z",
+            "owner": "MikeGu721",
+            "repo": "XiezhiBenchmark",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAiW",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T01:56:29Z",
+            "owner": "Dai-shen",
+            "repo": "LAiW",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMCU",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-24T07:02:28Z",
+            "owner": "Felixgithub2017",
+            "repo": "MMCU",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLUE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T23:23:41Z",
+            "owner": "SALT-NLP",
+            "repo": "FLANG",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFBenchmark",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T01:19:32Z",
+            "owner": "TongjiFinLab",
+            "repo": "CFBenchmark",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEXTREME",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-28T19:23:11Z",
+            "owner": "JoelNiklaus",
+            "repo": "LEXTREME",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CG-Eval",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-14T06:54:50Z",
+            "owner": "Felixgithub2017",
+            "repo": "CG-Eval",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "📏 评测基准"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📎 附录"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "✨ 点赞历史"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AIGC Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-31T09:18:04Z",
+            "owner": "luban-agi",
+            "repo": "Awesome-AIGC-Tutorials",
+            "stars": 4530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Code LLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-20T07:33:12Z",
+            "owner": "codefuse-ai",
+            "repo": "Awesome-Code-LLM",
+            "stars": 3421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeFuse-ChatBot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T09:16:47Z",
+            "owner": "codefuse-ai",
+            "repo": "codefuse-chatbot",
+            "stars": 1291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Tool Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-27T02:46:09Z",
+            "owner": "luban-agi",
+            "repo": "Awesome-Tool-Learning",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM reasoning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-04T05:45:17Z",
+            "owner": "luban-agi",
+            "repo": "Awesome-LLM-reasoning",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "🤝 友情链接"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:19.197Z",
+    "original_repository": "luban-agi/Awesome-Domain-LLM",
+    "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Domain-LLM",
+    "enhanced_repository_description": null,
+    "title": "Awesome Domain LLM with stars"
+  }
+}
