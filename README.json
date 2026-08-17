@@ -14,7 +14,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21591
+            "stars": 21595
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-07-30T06:24:22Z",
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5719
+            "stars": 5722
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2024-05-09T12:34:28Z",
             "owner": "WangRongsheng",
             "repo": "CareGPT",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2025-01-04T15:29:26Z",
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7571
+            "stars": 7572
           }
         },
         {
@@ -685,7 +685,7 @@
             "last_commit": "2024-06-11T07:20:19Z",
             "owner": "pengxiao-song",
             "repo": "LaWGPT",
-            "stars": 6057
+            "stars": 6056
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2025-07-30T06:24:22Z",
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-08-02T03:23:48Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 21094
+            "stars": 21100
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2024-01-17T07:37:16Z",
             "owner": "wenge-research",
             "repo": "YAYI",
-            "stars": 2529
+            "stars": 2528
           }
         },
         {
@@ -1039,7 +1039,7 @@
             "last_commit": "2026-07-22T09:05:56Z",
             "owner": "PharMolix",
             "repo": "OpenBioMed",
-            "stars": 1101
+            "stars": 1102
           }
         },
         {
@@ -1378,7 +1378,7 @@
             "last_commit": "2025-07-23T07:39:34Z",
             "owner": "coastalcph",
             "repo": "lex-glue",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -1540,7 +1540,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3424
+            "stars": 3425
           }
         },
         {
@@ -1590,7 +1590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:24:20.385Z",
+    "last_updated": "2026-08-17T02:23:09.601Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-LLM",
