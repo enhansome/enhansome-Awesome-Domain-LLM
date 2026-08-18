@@ -14,7 +14,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21595
+            "stars": 21600
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7264
+            "stars": 7265
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2023-11-13T06:42:45Z",
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5722
+            "stars": 5728
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-07-04T05:56:23Z",
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4985
+            "stars": 4984
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2024-05-17T22:24:31Z",
             "owner": "Kent0n-Li",
             "repo": "ChatDoctor",
-            "stars": 3631
+            "stars": 3632
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2026-03-12T05:47:03Z",
             "owner": "CSHaitao",
             "repo": "LexiLaw",
-            "stars": 1038
+            "stars": 1040
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-08-02T03:23:48Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 21100
+            "stars": 21101
           }
         },
         {
@@ -845,7 +845,7 @@
             "last_commit": "2024-05-08T13:46:36Z",
             "owner": "MetaGLM",
             "repo": "FinGLM",
-            "stars": 2253
+            "stars": 2255
           }
         },
         {
@@ -887,7 +887,7 @@
             "last_commit": "2025-03-04T16:57:22Z",
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 882
+            "stars": 883
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2025-07-18T13:22:39Z",
             "owner": "ECNU-ICALK",
             "repo": "EduChat",
-            "stars": 962
+            "stars": 963
           }
         },
         {
@@ -991,7 +991,7 @@
             "last_commit": "2023-11-13T04:49:21Z",
             "owner": "blcuicall",
             "repo": "taoli",
-            "stars": 194
+            "stars": 195
           }
         }
       ],
@@ -1053,7 +1053,7 @@
             "last_commit": "2023-09-14T11:55:09Z",
             "owner": "DUOMO",
             "repo": "TransGPT",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -1091,8 +1091,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-30T18:10:43Z",
+            "language": "Python",
+            "last_commit": "2026-08-17T17:15:14Z",
             "owner": "Yu-Yang-Li",
             "repo": "StarWhisper",
             "stars": 325
@@ -1238,7 +1238,7 @@
             "last_commit": "2025-03-04T16:57:22Z",
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 882
+            "stars": 883
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -1322,7 +1322,7 @@
             "last_commit": "2023-11-13T06:42:45Z",
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -1497,7 +1497,15 @@
           "node_type": "item",
           "title": "FinanceBench",
           "description": "[paper]",
-          "children": []
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T17:29:02Z",
+            "owner": "patronus-ai",
+            "repo": "financebench",
+            "stars": 1
+          }
         }
       ],
       "title": "📏 评测基准"
@@ -1590,7 +1598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:23:09.601Z",
+    "last_updated": "2026-08-18T02:19:16.384Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-LLM",
