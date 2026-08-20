@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21607
+            "stars": 21611
           }
         },
         {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5728
+                    "stars": 5729
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                     "last_commit": "2024-06-15T18:05:18Z",
                     "owner": "scutcyr",
                     "repo": "SoulChat",
-                    "stars": 759
+                    "stars": 760
                   }
                 },
                 {
@@ -565,7 +565,7 @@
                     "last_commit": "2025-05-27T02:55:49Z",
                     "owner": "2020MEAI",
                     "repo": "TCMLLM",
-                    "stars": 261
+                    "stars": 262
                   }
                 },
                 {
@@ -707,7 +707,7 @@
                     "last_commit": "2025-01-04T15:29:26Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7574
+                    "stars": 7575
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21110
+                    "stars": 21112
                   }
                 },
                 {
@@ -1163,7 +1163,7 @@
                     "last_commit": "2026-08-19T10:58:11Z",
                     "owner": "Yu-Yang-Li",
                     "repo": "StarWhisper",
-                    "stars": 325
+                    "stars": 326
                   }
                 },
                 {
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:39.262Z",
+    "last_updated": "2026-08-20T02:21:03.817Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
