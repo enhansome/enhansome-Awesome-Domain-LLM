@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21611
+            "stars": 21619
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-11-01T16:09:31Z",
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 894
+            "stars": 893
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-03-04T10:08:22Z",
             "owner": "SteveKGYang",
             "repo": "MentalLLaMA",
-            "stars": 324
+            "stars": 323
           }
         },
         {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5729
+                    "stars": 5732
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                     "last_commit": "2023-10-25T17:43:45Z",
                     "owner": "scutcyr",
                     "repo": "BianQue",
-                    "stars": 884
+                    "stars": 885
                   }
                 },
                 {
@@ -550,7 +550,7 @@
                     "last_commit": "2024-03-04T10:08:22Z",
                     "owner": "SteveKGYang",
                     "repo": "MentalLLaMA",
-                    "stars": 324
+                    "stars": 323
                   }
                 },
                 {
@@ -707,7 +707,7 @@
                     "last_commit": "2025-01-04T15:29:26Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7575
+                    "stars": 7577
                   }
                 },
                 {
@@ -797,7 +797,7 @@
                     "last_commit": "2026-04-09T02:51:29Z",
                     "owner": "zhihaiLLM",
                     "repo": "wisdomInterrogatory",
-                    "stars": 549
+                    "stars": 550
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21112
+                    "stars": 21116
                   }
                 },
                 {
@@ -924,7 +924,7 @@
                     "last_commit": "2023-11-01T16:09:31Z",
                     "owner": "FudanDISC",
                     "repo": "DISC-FinLLM",
-                    "stars": 894
+                    "stars": 893
                   }
                 },
                 {
@@ -954,7 +954,7 @@
                     "last_commit": "2023-06-30T07:55:51Z",
                     "owner": "jerry1993-tech",
                     "repo": "Cornucopia-LLaMA-Fin-Chinese",
-                    "stars": 658
+                    "stars": 657
                   }
                 },
                 {
@@ -969,7 +969,7 @@
                     "last_commit": "2023-07-10T07:17:58Z",
                     "owner": "supersymmetry-technologies",
                     "repo": "BBT-FinCUGE-Applications",
-                    "stars": 287
+                    "stars": 286
                   }
                 },
                 {
@@ -1088,7 +1088,7 @@
                     "last_commit": "2024-01-17T07:37:16Z",
                     "owner": "wenge-research",
                     "repo": "YAYI",
-                    "stars": 2528
+                    "stars": 2527
                   }
                 },
                 {
@@ -1118,7 +1118,7 @@
                     "last_commit": "2023-09-14T11:55:09Z",
                     "owner": "DUOMO",
                     "repo": "TransGPT",
-                    "stars": 838
+                    "stars": 839
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2023-09-26T23:04:03Z",
                     "owner": "Alibaba-NLP",
                     "repo": "EcomGPT",
-                    "stars": 277
+                    "stars": 276
                   }
                 },
                 {
@@ -1208,7 +1208,7 @@
                     "last_commit": "2023-06-29T11:57:14Z",
                     "owner": "neukg",
                     "repo": "TechGPT",
-                    "stars": 229
+                    "stars": 228
                   }
                 },
                 {
@@ -1223,7 +1223,7 @@
                     "last_commit": "2024-06-05T13:51:12Z",
                     "owner": "davendw49",
                     "repo": "k2",
-                    "stars": 216
+                    "stars": 215
                   }
                 },
                 {
@@ -1359,7 +1359,7 @@
             "last_commit": "2024-06-13T14:20:51Z",
             "owner": "ruixiangcui",
             "repo": "AGIEval",
-            "stars": 777
+            "stars": 776
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 626
+            "stars": 625
           }
         },
         {
@@ -1424,6 +1424,21 @@
         },
         {
           "node_type": "item",
+          "title": "FinanceBench",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 719213025,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T17:29:02Z",
+            "owner": "patronus-ai",
+            "repo": "financebench",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CFLEB",
           "description": "[paper]",
           "children": [],
@@ -1434,7 +1449,7 @@
             "last_commit": "2023-07-10T07:17:58Z",
             "owner": "supersymmetry-technologies",
             "repo": "BBT-FinCUGE-Applications",
-            "stars": 287
+            "stars": 286
           }
         },
         {
@@ -1449,7 +1464,7 @@
             "last_commit": "2025-06-23T03:39:27Z",
             "owner": "SUFE-AIFLM-Lab",
             "repo": "FinEval",
-            "stars": 284
+            "stars": 283
           }
         },
         {
@@ -1464,7 +1479,7 @@
             "last_commit": "2025-07-23T07:39:34Z",
             "owner": "coastalcph",
             "repo": "lex-glue",
-            "stars": 268
+            "stars": 267
           }
         },
         {
@@ -1569,7 +1584,7 @@
             "last_commit": "2023-12-28T19:23:11Z",
             "owner": "JoelNiklaus",
             "repo": "LEXTREME",
-            "stars": 26
+            "stars": 25
           }
         },
         {
@@ -1585,21 +1600,6 @@
             "owner": "Felixgithub2017",
             "repo": "CG-Eval",
             "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FinanceBench",
-          "description": "[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 719213025,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-12-03T17:29:02Z",
-            "owner": "patronus-ai",
-            "repo": "financebench",
-            "stars": 1
           }
         }
       ],
@@ -1622,7 +1622,7 @@
                 "last_commit": "2024-03-31T09:18:04Z",
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4530
+                "stars": 4532
               }
             },
             {
@@ -1637,7 +1637,7 @@
                 "last_commit": "2026-05-20T07:33:12Z",
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3426
+                "stars": 3430
               }
             },
             {
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:21:03.817Z",
+    "last_updated": "2026-08-21T02:35:01.474Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
