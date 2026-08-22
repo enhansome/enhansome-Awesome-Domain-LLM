@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21619
+            "stars": 21628
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-11-13T06:42:45Z",
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5732
+                    "stars": 5735
                   }
                 },
                 {
@@ -250,7 +250,7 @@
                     "last_commit": "2024-05-17T22:24:31Z",
                     "owner": "Kent0n-Li",
                     "repo": "ChatDoctor",
-                    "stars": 3632
+                    "stars": 3631
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                     "last_commit": "2024-06-15T18:05:18Z",
                     "owner": "scutcyr",
                     "repo": "SoulChat",
-                    "stars": 760
+                    "stars": 761
                   }
                 },
                 {
@@ -385,7 +385,7 @@
                     "last_commit": "2024-09-13T07:11:30Z",
                     "owner": "X-D-Lab",
                     "repo": "MindChat",
-                    "stars": 717
+                    "stars": 718
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21116
+                    "stars": 21128
                   }
                 },
                 {
@@ -1344,7 +1344,7 @@
             "last_commit": "2024-12-06T08:54:24Z",
             "owner": "haonan-li",
             "repo": "CMMLU",
-            "stars": 832
+            "stars": 834
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "last_commit": "2023-11-13T06:42:45Z",
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2024-12-03T17:29:02Z",
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -1652,7 +1652,7 @@
                 "last_commit": "2024-07-01T09:16:47Z",
                 "owner": "codefuse-ai",
                 "repo": "codefuse-chatbot",
-                "stars": 1291
+                "stars": 1290
               }
             },
             {
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:35:01.474Z",
+    "last_updated": "2026-08-22T02:19:11.991Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
