@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21628
+            "stars": 21632
           }
         },
         {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5735
+                    "stars": 5737
                   }
                 },
                 {
@@ -235,7 +235,7 @@
                     "last_commit": "2026-07-04T05:56:23Z",
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4985
+                    "stars": 4986
                   }
                 },
                 {
@@ -752,7 +752,7 @@
                     "last_commit": "2026-03-12T05:47:03Z",
                     "owner": "CSHaitao",
                     "repo": "LexiLaw",
-                    "stars": 1039
+                    "stars": 1040
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21128
+                    "stars": 21132
                   }
                 },
                 {
@@ -1036,7 +1036,7 @@
                     "last_commit": "2025-07-18T13:22:39Z",
                     "owner": "ECNU-ICALK",
                     "repo": "EduChat",
-                    "stars": 963
+                    "stars": 964
                   }
                 },
                 {
@@ -1148,7 +1148,7 @@
                     "last_commit": "2025-02-28T10:55:21Z",
                     "owner": "ddzipp",
                     "repo": "AutoAudit",
-                    "stars": 355
+                    "stars": 354
                   }
                 },
                 {
@@ -1299,7 +1299,7 @@
             "last_commit": "2025-07-27T03:55:53Z",
             "owner": "hkust-nlp",
             "repo": "ceval",
-            "stars": 1866
+            "stars": 1867
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2024-12-06T08:54:24Z",
             "owner": "haonan-li",
             "repo": "CMMLU",
-            "stars": 834
+            "stars": 835
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2024-12-03T17:29:02Z",
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -1622,7 +1622,7 @@
                 "last_commit": "2024-03-31T09:18:04Z",
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4532
+                "stars": 4533
               }
             },
             {
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:19:11.991Z",
+    "last_updated": "2026-08-23T02:35:11.743Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
