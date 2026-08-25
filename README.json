@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21638
+            "stars": 21640
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-06-25T10:03:37Z",
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3099
+            "stars": 3101
           }
         },
         {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59572
+                "stars": 59574
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2025-01-13T06:55:26Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13657
+                "stars": 13656
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21638
+                "stars": 21640
               }
             },
             {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5738
+                    "stars": 5741
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2024-12-16T20:21:17Z",
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1321
+                    "stars": 1322
                   }
                 },
                 {
@@ -407,7 +407,7 @@
                     "last_commit": "2024-05-09T12:34:28Z",
                     "owner": "WangRongsheng",
                     "repo": "CareGPT",
-                    "stars": 999
+                    "stars": 1000
                   }
                 },
                 {
@@ -452,7 +452,7 @@
                     "last_commit": "2024-08-09T07:07:36Z",
                     "owner": "CMKRG",
                     "repo": "QiZhenGPT",
-                    "stars": 776
+                    "stars": 777
                   }
                 },
                 {
@@ -804,7 +804,7 @@
                     "last_commit": "2025-01-04T15:29:26Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7582
+                    "stars": 7583
                   }
                 },
                 {
@@ -834,7 +834,7 @@
                     "last_commit": "2024-05-13T08:25:34Z",
                     "owner": "LiuHC0428",
                     "repo": "LAW-GPT",
-                    "stars": 1192
+                    "stars": 1193
                   }
                 },
                 {
@@ -976,7 +976,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21143
+                    "stars": 21146
                   }
                 },
                 {
@@ -991,7 +991,7 @@
                     "last_commit": "2024-05-08T13:46:36Z",
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2256
+                    "stars": 2258
                   }
                 },
                 {
@@ -1133,7 +1133,7 @@
                     "last_commit": "2025-07-18T13:22:39Z",
                     "owner": "ECNU-ICALK",
                     "repo": "EduChat",
-                    "stars": 964
+                    "stars": 965
                   }
                 },
                 {
@@ -1170,7 +1170,7 @@
                     "last_commit": "2025-06-25T10:03:37Z",
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3099
+                    "stars": 3101
                   }
                 },
                 {
@@ -1215,7 +1215,7 @@
                     "last_commit": "2023-09-14T11:55:09Z",
                     "owner": "DUOMO",
                     "repo": "TransGPT",
-                    "stars": 839
+                    "stars": 840
                   }
                 },
                 {
@@ -1365,7 +1365,7 @@
                     "last_commit": "2023-10-04T22:58:56Z",
                     "owner": "AgriGPTs",
                     "repo": "AgriGPTs",
-                    "stars": 29
+                    "stars": 30
                   }
                 }
               ],
@@ -1719,7 +1719,7 @@
                 "last_commit": "2024-03-31T09:18:04Z",
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4534
+                "stars": 4535
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2026-05-20T07:33:12Z",
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3430
+                "stars": 3431
               }
             },
             {
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:19.264Z",
+    "last_updated": "2026-08-25T02:22:02.362Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
