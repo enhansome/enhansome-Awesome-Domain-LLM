@@ -17,10 +17,10 @@
 
 ## 🔔 更新
 
-* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,640 | 🐛 38 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
+* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,641 | 🐛 38 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
 * \[2023/9/22] 增加[InternLM(书生•浦语)](https://github.com/InternLM/InternLM) ⭐ 7,269 | 🐛 8 | 🌐 Python | 📅 2025-10-30，上海AI实验室与商汤科技联合香港中文大学和复旦大学开源的多语基座模型。
-* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,101 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 107 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 353 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
-* \[2023/10/01] 增加[DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 948 | 🐛 31 | 🌐 Python | 📅 2025-05-27，由复旦大学开源的旨在为用户提供专业、智能、全面的法律服务的法律领域大模型。增加[FinGLM](https://github.com/MetaGLM/FinGLM) ⭐ 2,258 | 🐛 7 | 🌐 HTML | 📅 2024-05-08，致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
+* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,102 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 107 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 353 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
+* \[2023/10/01] 增加[DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 949 | 🐛 31 | 🌐 Python | 📅 2025-05-27，由复旦大学开源的旨在为用户提供专业、智能、全面的法律服务的法律领域大模型。增加[FinGLM](https://github.com/MetaGLM/FinGLM) ⭐ 2,258 | 🐛 7 | 🌐 HTML | 📅 2024-05-08，致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
 * \[2023/10/28] 增加金融大模型[DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ 894 | 🐛 22 | 🌐 Python | 📅 2023-11-01、医学大模型[AlpaCare](https://github.com/XZhang97666/AlpaCare) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2025-02-08、海洋大模型[MarineGPT](https://github.com/hkust-vgd/MarineGPT) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-03-02。
 * \[2023/11/01] 增加由蚂蚁集团联合北京大学发布的DevOps领域大模型[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) ⚠️ Archived和评测基准[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval) ⭐ 656 | 🐛 8 | 🌐 Python | 📅 2024-07-10。
 * \[2023/10/03] 增加两个法律评测基准，分别为面向中国法律体系的[LawBench](https://github.com/open-compass/LawBench) ⭐ 448 | 🐛 4 | 🌐 Python | 📅 2023-11-13和美国法律体系的[LegalBench](https://github.com/HazyResearch/legalbench) ⭐ 627 | 🐛 19 | 🌐 Python | 📅 2026-03-30。
@@ -57,7 +57,7 @@
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 |  [LLaMA2](https://github.com/facebookresearch/llama) ⭐ 59,574 \| 🐛 532 \| 🌐 Python \| 📅 2025-01-26  |           7B/7B-Chat <br> 13B/13B-Chat <br> 70B/70B-Chat           |                                [Meta](https://ai.meta.com/)                               |                                    [paper](https://arxiv.org/abs/2307.09288)                                   |
 |    [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) ⭐ 13,656 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13    |                          6B-Base/6B/6B-32K                         | [清华大学](https://github.com/THUDM/ChatGLM3) ⭐ 13,656 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13 |                                    [paper](https://arxiv.org/abs/2210.02414)                                   |
-|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,640 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
+|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,641 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
 | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,084 \| 🐛 281 \| 🌐 Python \| 📅 2024-11-08 |                    7B/7B-Chat <br> 13B/13B-Chat                    |                          [百川智能](https://www.baichuan-ai.com/home)                         |                                    [paper](https://arxiv.org/abs/2309.10305)                                   |
 |     [InternLM](https://github.com/InternLM/InternLM) ⭐ 7,269 \| 🐛 8 \| 🌐 Python \| 📅 2025-10-30     |                    7B/7B-Chat <br> 20B/20B-Chat                    |                        [上海AI实验室](https://internlm.intern-ai.org.cn)                       | [paper](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf) ⭐ 893 \| 🐛 6 \| 📅 2023-06-07 |
 
@@ -232,7 +232,7 @@
   \[[paper](https://arxiv.org/abs/2305.15062)]
   * 该项目开源了法律领域的指令微调数据和基于LLaMA训练的中文法律大模型Lawyer LLaMA。Lawyer LLaMA首先在大规模法律语料上进行了预训练，让它系统的学习中国的法律知识体系。在此基础上，借助ChatGPT收集了一批对中国国家统一法律职业资格考试客观题的分析和对法律咨询的回答，利用收集到的数据对模型进行指令微调，让模型习得将法律知识应用到具体场景中的能力。
 
-* [DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 948 | 🐛 31 | 🌐 Python | 📅 2025-05-27
+* [DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 949 | 🐛 31 | 🌐 Python | 📅 2025-05-27
   ![](https://img.shields.io/github/stars/FudanDISC/DISC-LawLLM.svg?style=social)
   \[[paper](https://arxiv.org/abs/2309.11325)]
   * DISC-LawLLM 是一个旨在为用户提供专业、智能、全面的法律服务的法律领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源，包括 DISC-LawLLM-13B 模型 和 DISC-Law-SFT 数据集。
@@ -259,7 +259,7 @@
 
 #### 💰 金融
 
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,146 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-08-02
+* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,147 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-08-02
   ![](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT.svg?style=social)
   \[[paper1](https://arxiv.org/abs/2306.06031)]
   \[[paper2](https://arxiv.org/abs/2310.04793)]
@@ -324,7 +324,7 @@
 
 #### ➕ 其他
 
-* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,101 | 🐛 52 | 🌐 Python | 📅 2025-06-25
+* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,102 | 🐛 52 | 🌐 Python | 📅 2025-06-25
   ![](https://img.shields.io/github/stars/Clouditera/secgpt.svg?style=social)
   ![](https://img.shields.io/badge/安全-blue)
   * 该项目开源了网络安全大模型SecGPT，该模型基于Baichuan-13B采用Lora做预训练和SFT训练，还开源了相关预训练和指令微调数据集。

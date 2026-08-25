@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21640
+            "stars": 21641
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-06-25T10:03:37Z",
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3101
+            "stars": 3102
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-05-27T07:45:58Z",
             "owner": "FudanDISC",
             "repo": "DISC-LawLLM",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21640
+                "stars": 21641
               }
             },
             {
@@ -283,7 +283,7 @@
             },
             {
               "node_type": "item",
-              "title": "paper",
+              "title": "InternLM/InternLM-techreport",
               "description": null,
               "children": [],
               "repo_info": {
@@ -879,7 +879,7 @@
                     "last_commit": "2025-05-27T07:45:58Z",
                     "owner": "FudanDISC",
                     "repo": "DISC-LawLLM",
-                    "stars": 948
+                    "stars": 949
                   }
                 },
                 {
@@ -976,7 +976,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21146
+                    "stars": 21147
                   }
                 },
                 {
@@ -1170,7 +1170,7 @@
                     "last_commit": "2025-06-25T10:03:37Z",
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3101
+                    "stars": 3102
                   }
                 },
                 {
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:22:02.362Z",
+    "last_updated": "2026-08-25T06:00:21.645Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
