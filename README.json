@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21641
+            "stars": 21647
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7269
+            "stars": 7268
           }
         },
         {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59574
+                "stars": 59579
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21641
+                "stars": 21647
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2025-10-30T00:35:43Z",
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7269
+                "stars": 7268
               }
             },
             {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5741
+                    "stars": 5744
                   }
                 },
                 {
@@ -527,7 +527,7 @@
                     "last_commit": "2023-10-28T21:33:14Z",
                     "owner": "FudanDISC",
                     "repo": "DISC-MedLLM",
-                    "stars": 566
+                    "stars": 565
                   }
                 },
                 {
@@ -587,7 +587,7 @@
                     "last_commit": "2023-12-26T08:44:33Z",
                     "owner": "openmedlab",
                     "repo": "PULSE",
-                    "stars": 499
+                    "stars": 498
                   }
                 },
                 {
@@ -804,7 +804,7 @@
                     "last_commit": "2025-01-04T15:29:26Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7583
+                    "stars": 7586
                   }
                 },
                 {
@@ -819,7 +819,7 @@
                     "last_commit": "2024-06-11T07:20:19Z",
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6056
+                    "stars": 6058
                   }
                 },
                 {
@@ -834,7 +834,7 @@
                     "last_commit": "2024-05-13T08:25:34Z",
                     "owner": "LiuHC0428",
                     "repo": "LAW-GPT",
-                    "stars": 1193
+                    "stars": 1194
                   }
                 },
                 {
@@ -976,7 +976,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21147
+                    "stars": 21150
                   }
                 },
                 {
@@ -1133,7 +1133,7 @@
                     "last_commit": "2025-07-18T13:22:39Z",
                     "owner": "ECNU-ICALK",
                     "repo": "EduChat",
-                    "stars": 965
+                    "stars": 966
                   }
                 },
                 {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2026-05-20T07:33:12Z",
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3431
+                "stars": 3432
               }
             },
             {
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:21.645Z",
+    "last_updated": "2026-08-26T02:37:09.029Z",
     "original_repository": "luban-agi/Awesome-Domain-LLM",
     "original_repository_id": 687404865,
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
