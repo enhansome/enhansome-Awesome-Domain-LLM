@@ -284,7 +284,7 @@
   \[[paper](https://arxiv.org/abs/2306.05443)]
   * 该项目开源了金融领域指令微调数据集FIT，大模型FinMA及评测基准FLARE。
 
-* [Cornucopia (聚宝盆)](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese) ⭐ 658 | 🐛 20 | 🌐 Python | 📅 2023-06-30
+* [Cornucopia (聚宝盆)](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese) ⭐ 657 | 🐛 20 | 🌐 Python | 📅 2023-06-30
   ![](https://img.shields.io/github/stars/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese.svg?style=social)
   * 该项目基于公开和爬取的中文金融领域问答数据构建指令数据集，并在此基础上对LLaMA系模型进行了指令微调，提高了LLaMA在金融领域的问答效果。
 
