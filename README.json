@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21647
+            "stars": 21658
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7268
+            "stars": 7271
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-06-25T10:03:37Z",
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3102
+            "stars": 3101
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-05-27T07:45:58Z",
             "owner": "FudanDISC",
             "repo": "DISC-LawLLM",
-            "stars": 949
+            "stars": 950
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-07-30T06:24:22Z",
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 388
+            "stars": 390
           }
         },
         {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59579
+                "stars": 59581
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21647
+                "stars": 21658
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2025-10-30T00:35:43Z",
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7268
+                "stars": 7271
               }
             },
             {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-06-03T03:39:57Z",
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5744
+                    "stars": 5751
                   }
                 },
                 {
@@ -377,7 +377,7 @@
                     "last_commit": "2024-11-20T07:07:22Z",
                     "owner": "WangRongsheng",
                     "repo": "XrayGLM",
-                    "stars": 1081
+                    "stars": 1082
                   }
                 },
                 {
@@ -557,7 +557,7 @@
                     "last_commit": "2026-06-10T06:36:59Z",
                     "owner": "pariskang",
                     "repo": "CMLM-ZhongJing",
-                    "stars": 516
+                    "stars": 517
                   }
                 },
                 {
@@ -572,7 +572,7 @@
                     "last_commit": "2023-08-31T02:59:22Z",
                     "owner": "michael-wzhu",
                     "repo": "ShenNong-TCM-LLM",
-                    "stars": 504
+                    "stars": 505
                   }
                 },
                 {
@@ -692,7 +692,7 @@
                     "last_commit": "2025-07-28T08:53:22Z",
                     "owner": "DUTIR-BioNLP",
                     "repo": "Taiyi-LLM",
-                    "stars": 168
+                    "stars": 169
                   }
                 },
                 {
@@ -804,7 +804,7 @@
                     "last_commit": "2025-01-04T15:29:26Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7586
+                    "stars": 7589
                   }
                 },
                 {
@@ -819,7 +819,7 @@
                     "last_commit": "2024-06-11T07:20:19Z",
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6058
+                    "stars": 6059
                   }
                 },
                 {
@@ -834,7 +834,7 @@
                     "last_commit": "2024-05-13T08:25:34Z",
                     "owner": "LiuHC0428",
                     "repo": "LAW-GPT",
-                    "stars": 1194
+                    "stars": 1195
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2025-05-27T07:45:58Z",
                     "owner": "FudanDISC",
                     "repo": "DISC-LawLLM",
-                    "stars": 949
+                    "stars": 950
                   }
                 },
                 {
@@ -909,7 +909,7 @@
                     "last_commit": "2025-07-30T06:24:22Z",
                     "owner": "irlab-sdu",
                     "repo": "fuzi.mingcha",
-                    "stars": 388
+                    "stars": 390
                   }
                 },
                 {
@@ -976,7 +976,7 @@
                     "last_commit": "2026-08-02T03:23:48Z",
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21150
+                    "stars": 21158
                   }
                 },
                 {
@@ -1170,7 +1170,7 @@
                     "last_commit": "2025-06-25T10:03:37Z",
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3102
+                    "stars": 3101
                   }
                 },
                 {
@@ -1486,7 +1486,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -1561,7 +1561,7 @@
             "last_commit": "2025-06-23T03:39:27Z",
             "owner": "SUFE-AIFLM-Lab",
             "repo": "FinEval",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -1792,9 +1792,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:37:09.029Z",
-    "original_repository": "luban-agi/Awesome-Domain-LLM",
-    "original_repository_id": 687404865,
+    "last_updated": "2026-08-27T11:08:51.142Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 687404865,
+      "language": null,
+      "last_commit": "2023-12-26T12:35:03Z",
+      "owner": "luban-agi",
+      "repo": "Awesome-Domain-LLM",
+      "stars": 2581
+    },
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-LLM",
     "enhanced_repository_description": null,
