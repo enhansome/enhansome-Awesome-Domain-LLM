@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+            "homepage": null,
             "id": 674075444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21670
+            "stars": 21672,
+            "topics": [
+              "chinese",
+              "flash-attention",
+              "large-language-models",
+              "llm",
+              "natural-language-processing",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -26,12 +38,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).",
+            "homepage": "https://internlm.readthedocs.io/",
             "id": 662878020,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-30T00:35:43Z",
+            "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7272
+            "stars": 7272,
+            "topics": [
+              "chatbot",
+              "chinese",
+              "fine-tuning-llm",
+              "flash-attention",
+              "gpt",
+              "large-language-model",
+              "llm",
+              "long-context",
+              "pretrained-models",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -42,12 +70,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecGPT网络安全大模型",
+            "homepage": null,
             "id": 720984807,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-25T10:03:37Z",
+            "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3101
+            "stars": 3101,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -58,12 +91,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[中文法律大模型] DISC-LawLLM: an intelligent legal system powered by large language models (LLMs) to provide a wide range of legal services. ",
+            "homepage": null,
             "id": 694631294,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-27T07:45:58Z",
+            "open_issues": 31,
             "owner": "FudanDISC",
             "repo": "DISC-LawLLM",
-            "stars": 950
+            "stars": 950,
+            "topics": [
+              "domain-llm",
+              "legal-intelligence",
+              "legal-llm",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -74,12 +117,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DISC-FinLLM，中文金融大语言模型（LLM），旨在为用户提供金融场景下专业、智能、全面的金融咨询服务。DISC-FinLLM, a Chinese financial large language model (LLM) designed to provide users with professional, intelligent, and comprehensive financial consulting services in financial scenarios.",
+            "homepage": "https://fin.fudan-disc.com/",
             "id": 709253197,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-01T16:09:31Z",
+            "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 894
+            "stars": 895,
+            "topics": [
+              "chain-of-retrieval",
+              "financial-large-language-model",
+              "instruction-tuning",
+              "retrieval-enhanced-generation",
+              "tool-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -90,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!",
+            "homepage": null,
             "id": 711708346,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-23T03:46:10Z",
+            "open_issues": 1,
             "owner": "codefuse-ai",
             "repo": "CodeFuse-DevOps-Model",
-            "stars": 507
+            "stars": 507,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -106,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking Legal Knowledge of Large Language Models",
+            "homepage": null,
             "id": 685923474,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-13T06:42:45Z",
+            "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "benchmark",
+              "chatgpt",
+              "law",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -122,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.",
+            "homepage": null,
             "id": 667729243,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-12T13:28:54Z",
+            "open_issues": 13,
             "owner": "SupritYoung",
             "repo": "Zhongjing",
-            "stars": 399
+            "stars": 399,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -138,12 +212,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。",
+            "homepage": null,
             "id": 685453475,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-30T06:24:22Z",
+            "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "chatglm-6b",
+              "judicial",
+              "large-language-models",
+              "legal",
+              "legal-ai",
+              "legalai",
+              "llms",
+              "nlp",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -154,12 +243,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository introduces MentaLLaMA, the first open-source instruction following large language model for interpretable mental health analysis.",
+            "homepage": null,
             "id": 695762947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-04T10:08:22Z",
+            "open_issues": 6,
             "owner": "SteveKGYang",
             "repo": "MentalLLaMA",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "chatgpt",
+              "gpt4",
+              "interpretability",
+              "language-model",
+              "large-language-models",
+              "llama2",
+              "mental-health",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "social-media"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -170,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Large Language Model for IT Operations",
+            "homepage": null,
             "id": 672803144,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-30T09:46:38Z",
+            "open_issues": 5,
             "owner": "HC-Guo",
             "repo": "OWL",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -186,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-chat bot transforming counseling with personalized support and expert assistance.",
+            "homepage": null,
             "id": 632383455,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-12T10:37:26Z",
+            "open_issues": 1,
             "owner": "EmoCareAI",
             "repo": "ChatPsychiatrist",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -202,12 +317,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the paper: WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine",
+            "homepage": null,
             "id": 674587784,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-06T09:13:59Z",
+            "open_issues": 1,
             "owner": "alipay",
             "repo": "fin_domain_llm",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "finance",
+              "gpt",
+              "large-language-models",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         }
@@ -226,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inference code for Llama models",
+                "homepage": null,
                 "id": 601538369,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-26T21:42:26Z",
+                "open_issues": 531,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59582
+                "stars": 59585,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -242,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型",
+                "homepage": null,
                 "id": 710159073,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-13T06:55:26Z",
+                "open_issues": 35,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13657
+                "stars": 13657,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -258,12 +393,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+                "homepage": null,
                 "id": 674075444,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
+                "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21670
+                "stars": 21672,
+                "topics": [
+                  "chinese",
+                  "flash-attention",
+                  "large-language-models",
+                  "llm",
+                  "natural-language-processing",
+                  "pretrained-models"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -274,12 +421,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A series of large language models developed by Baichuan Intelligent Technology",
+                "homepage": "https://huggingface.co/baichuan-inc",
                 "id": 685444668,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-08T08:31:29Z",
+                "open_issues": 281,
                 "owner": "baichuan-inc",
                 "repo": "Baichuan2",
-                "stars": 4083
+                "stars": 4083,
+                "topics": [
+                  "artificial-intelligence",
+                  "benchmark",
+                  "ceval",
+                  "chatgpt",
+                  "chinese",
+                  "gpt",
+                  "gpt-4",
+                  "huggingface",
+                  "large-language-models",
+                  "llama2",
+                  "mmlu",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -290,12 +455,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).",
+                "homepage": "https://internlm.readthedocs.io/",
                 "id": 662878020,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-30T00:35:43Z",
+                "open_issues": 8,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7272
+                "stars": 7272,
+                "topics": [
+                  "chatbot",
+                  "chinese",
+                  "fine-tuning-llm",
+                  "flash-attention",
+                  "gpt",
+                  "large-language-model",
+                  "llm",
+                  "long-context",
+                  "pretrained-models",
+                  "rlhf"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -306,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 648849579,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-07T04:52:53Z",
+                "open_issues": 6,
                 "owner": "InternLM",
                 "repo": "InternLM-techreport",
-                "stars": 893
+                "stars": 893,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             }
@@ -331,12 +517,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
+                    "homepage": null,
                     "id": 648505057,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-03T03:39:57Z",
+                    "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5756
+                    "stars": 5759,
+                    "topics": [
+                      "chatgpt",
+                      "dpo",
+                      "gpt",
+                      "llama",
+                      "llm",
+                      "medical",
+                      "medicalgpt"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -347,12 +546,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调",
+                    "homepage": null,
                     "id": 621826122,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-04T05:56:23Z",
+                    "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4987
+                    "stars": 4988,
+                    "topics": [
+                      "aidoctor",
+                      "bloom",
+                      "chinese",
+                      "huozi",
+                      "llama",
+                      "llm",
+                      "medgpt",
+                      "medical",
+                      "medqa",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -363,12 +578,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 617219182,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-17T22:24:31Z",
+                    "open_issues": 49,
                     "owner": "Kent0n-Li",
                     "repo": "ChatDoctor",
-                    "stars": 3631
+                    "stars": 3631,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -379,12 +599,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)",
+                    "homepage": null,
                     "id": 627261340,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-16T20:21:17Z",
+                    "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1323
+                    "stars": 1323,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -395,12 +620,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🩺 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization.",
+                    "homepage": null,
                     "id": 644351982,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-11-20T07:07:22Z",
+                    "open_issues": 28,
                     "owner": "WangRongsheng",
                     "repo": "XrayGLM",
-                    "stars": 1082
+                    "stars": 1082,
+                    "topics": [
+                      "large-language-models",
+                      "llms",
+                      "medical",
+                      "multimodal",
+                      "visualglm-6b",
+                      "xray"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -411,12 +648,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调",
+                    "homepage": null,
                     "id": 621824192,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-19T09:17:15Z",
+                    "open_issues": 31,
                     "owner": "SCIR-HI",
                     "repo": "Med-ChatGLM",
-                    "stars": 1037
+                    "stars": 1037,
+                    "topics": [
+                      "chinese",
+                      "medical",
+                      "medqa",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -427,12 +674,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.",
+                    "homepage": "https://arxiv.org/abs/2307.10512",
                     "id": 678044949,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-09T12:34:28Z",
+                    "open_issues": 0,
                     "owner": "WangRongsheng",
                     "repo": "CareGPT",
-                    "stars": 1000
+                    "stars": 1000,
+                    "topics": [
+                      "baichuan",
+                      "gpt",
+                      "large-language-models",
+                      "llama",
+                      "llama2",
+                      "medical-llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -443,12 +702,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中文医疗对话模型扁鹊(BianQue)",
+                    "homepage": "https://huggingface.co/spaces/scutcyr/BianQue",
                     "id": 631136535,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-25T17:43:45Z",
+                    "open_issues": 22,
                     "owner": "scutcyr",
                     "repo": "BianQue",
-                    "stars": 887
+                    "stars": 887,
+                    "topics": [
+                      "chat-application",
+                      "chatbot",
+                      "conversational-ai",
+                      "medical-application"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -459,12 +728,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于ChatGLM-6B的中文问诊模型",
+                    "homepage": null,
                     "id": 620773009,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-19T06:49:02Z",
+                    "open_issues": 20,
                     "owner": "xionghonglin",
                     "repo": "DoctorGLM",
-                    "stars": 835
+                    "stars": 835,
+                    "topics": [
+                      "chatglm-6b"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -475,12 +751,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型",
+                    "homepage": null,
                     "id": 637692988,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-09T07:07:36Z",
+                    "open_issues": 8,
                     "owner": "CMKRG",
                     "repo": "QiZhenGPT",
-                    "stars": 777
+                    "stars": 777,
+                    "topics": [
+                      "alpaca",
+                      "chatgpt",
+                      "chinese-medical",
+                      "disease",
+                      "gpt",
+                      "llama",
+                      "llm",
+                      "medicine"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -491,12 +781,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中文领域心理健康对话大模型SoulChat",
+                    "homepage": null,
                     "id": 647752905,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-15T18:05:18Z",
+                    "open_issues": 16,
                     "owner": "scutcyr",
                     "repo": "SoulChat",
-                    "stars": 762
+                    "stars": 762,
+                    "topics": [
+                      "chatbot",
+                      "conversational-ai",
+                      "psychology",
+                      "soulchat"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -507,12 +807,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🐋MindChat（漫谈）：漫谈人生路, 笑对风霜途",
+                    "homepage": null,
                     "id": 663034436,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-13T07:11:30Z",
+                    "open_issues": 5,
                     "owner": "X-D-Lab",
                     "repo": "MindChat",
-                    "stars": 718
+                    "stars": 718,
+                    "topics": [
+                      "baichuan-13b",
+                      "chatglm2-6b",
+                      "chatgpt",
+                      "domain-llm",
+                      "internlm",
+                      "large-language-models",
+                      "llm",
+                      "lora",
+                      "qlora",
+                      "qwen",
+                      "qwen-7b",
+                      "qwen1-5",
+                      "qwen2"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -523,12 +842,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official codes for \"PMC-LLaMA: Towards Building Open-source Language Models for Medicine\"",
+                    "homepage": null,
                     "id": 632335292,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-08T12:45:23Z",
+                    "open_issues": 26,
                     "owner": "chaoyi-wu",
                     "repo": "PMC-LLaMA",
-                    "stars": 680
+                    "stars": 680,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -539,12 +863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatMed: 中文医疗大模型，善于在线回答患者/用户的日常医疗相关问题！",
+                    "homepage": null,
                     "id": 623323703,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-16T14:33:10Z",
+                    "open_issues": 9,
                     "owner": "michael-wzhu",
                     "repo": "ChatMed",
-                    "stars": 628
+                    "stars": 628,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -555,12 +884,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.",
+                    "homepage": null,
                     "id": 683734361,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-28T21:33:14Z",
+                    "open_issues": 16,
                     "owner": "FudanDISC",
                     "repo": "DISC-MedLLM",
-                    "stars": 565
+                    "stars": 565,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -571,12 +905,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2024] 中文领域心理健康对话大模型MeChat",
+                    "homepage": "https://aclanthology.org/2024.findings-emnlp.34",
                     "id": 632236598,
                     "language": "Python",
+                    "license": "CC0-1.0",
                     "last_commit": "2024-11-17T01:55:24Z",
+                    "open_issues": 2,
                     "owner": "qiuhuachuan",
                     "repo": "smile",
-                    "stars": 535
+                    "stars": 535,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -587,12 +926,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。  The first-ever Traditional Chinese Medicine large language model - \"CMLM-ZhongJing\". Inspired by the profound wisdom of the ancient Chinese medical master Zhang Zhongjing, it is a pre-trained large language model designed specifically for the field of Traditional Chinese Medicine.",
+                    "homepage": null,
                     "id": 647523556,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-06-10T06:36:59Z",
+                    "open_issues": 10,
                     "owner": "pariskang",
                     "repo": "CMLM-ZhongJing",
-                    "stars": 517
+                    "stars": 518,
+                    "topics": [
+                      "chatbot",
+                      "chinese-medicine",
+                      "chinese-medicine-tcm",
+                      "cmlm-zhongjing",
+                      "large-language-models",
+                      "zhngzhongjing",
+                      "zhongjinggpt"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -603,12 +955,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for ShenNong-TCM-LLM (“神农”大模型，首个中医药中文大模型)",
+                    "homepage": null,
                     "id": 654028575,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-31T02:59:22Z",
+                    "open_issues": 7,
                     "owner": "michael-wzhu",
                     "repo": "ShenNong-TCM-LLM",
-                    "stars": 505
+                    "stars": 505,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -619,12 +976,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PULSE: Pretrained and Unified Language Service Engine",
+                    "homepage": null,
                     "id": 649611115,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-26T08:44:33Z",
+                    "open_issues": 14,
                     "owner": "openmedlab",
                     "repo": "PULSE",
-                    "stars": 498
+                    "stars": 498,
+                    "topics": [
+                      "llm",
+                      "med"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -635,12 +1000,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型",
+                    "homepage": null,
                     "id": 656242932,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-13T06:54:26Z",
+                    "open_issues": 6,
                     "owner": "X-D-Lab",
                     "repo": "Sunsimiao",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": [
+                      "baichuan",
+                      "baichuan-7b",
+                      "chatgpt",
+                      "huggingface",
+                      "large-language-models",
+                      "llm",
+                      "medical",
+                      "modelscope",
+                      "qlora"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -651,12 +1031,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。",
+                    "homepage": null,
                     "id": 696552977,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-28T07:09:58Z",
+                    "open_issues": 2,
                     "owner": "winninghealth",
                     "repo": "WiNGPT2",
-                    "stars": 437
+                    "stars": 437,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -667,12 +1052,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.",
+                    "homepage": null,
                     "id": 667729243,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-12T13:28:54Z",
+                    "open_issues": 13,
                     "owner": "SupritYoung",
                     "repo": "Zhongjing",
-                    "stars": 399
+                    "stars": 399,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -683,12 +1073,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository introduces MentaLLaMA, the first open-source instruction following large language model for interpretable mental health analysis.",
+                    "homepage": null,
                     "id": 695762947,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-04T10:08:22Z",
+                    "open_issues": 6,
                     "owner": "SteveKGYang",
                     "repo": "MentalLLaMA",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": [
+                      "chatgpt",
+                      "gpt4",
+                      "interpretability",
+                      "language-model",
+                      "large-language-models",
+                      "llama2",
+                      "mental-health",
+                      "natural-language-processing",
+                      "natural-language-understanding",
+                      "social-media"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -699,12 +1105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中医药大模型",
+                    "homepage": null,
                     "id": 659532577,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-27T02:55:49Z",
+                    "open_issues": 9,
                     "owner": "2020MEAI",
                     "repo": "TCMLLM",
-                    "stars": 263
+                    "stars": 263,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -715,12 +1126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 673421735,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-31T02:20:56Z",
+                    "open_issues": 3,
                     "owner": "HIT-SCIR-SC",
                     "repo": "QiaoBan",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -731,12 +1147,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Taiyi 2, Biomedical LLM, A Bilingual (Chinese and English) Fine-Tuned Large Language Model for Diverse Biomedical Tasks",
+                    "homepage": null,
                     "id": 696068744,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-28T08:53:22Z",
+                    "open_issues": 0,
                     "owner": "DUTIR-BioNLP",
                     "repo": "Taiyi-LLM",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": [
+                      "bionlp",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -747,12 +1171,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An AI-chat bot transforming counseling with personalized support and expert assistance.",
+                    "homepage": null,
                     "id": 632383455,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-12T10:37:26Z",
+                    "open_issues": 1,
                     "owner": "EmoCareAI",
                     "repo": "ChatPsychiatrist",
-                    "stars": 163
+                    "stars": 163,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -763,12 +1192,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "黄帝(Huang-Di)模型仓库，基于Ziya-LLaMA-13B-V1的中医古籍知识问答大模型。",
+                    "homepage": null,
                     "id": 672142208,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-11T07:34:56Z",
+                    "open_issues": 7,
                     "owner": "Zlasejd",
                     "repo": "HuangDI",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "ancient-books",
+                      "llm",
+                      "nlp",
+                      "qusetion-answer",
+                      "tcm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -779,12 +1219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChiMed-GPT is a Chinese medical large language model (LLM) built by continually training Ziya-v2 on Chinese medical data, where pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) are comprehensively performed on it.",
+                    "homepage": null,
                     "id": 690854952,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2023-12-29T11:54:50Z",
+                    "open_issues": 5,
                     "owner": "synlp",
                     "repo": "ChiMed-GPT",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -795,12 +1240,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 706953556,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-08T19:17:16Z",
+                    "open_issues": 1,
                     "owner": "XZhang97666",
                     "repo": "AlpaCare",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -811,12 +1261,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CICAI 2023] The official codes for \"Ivygpt: Interactive chinese pathway language model in medical domain\"",
+                    "homepage": "https://arxiv.org/abs/2307.10512",
                     "id": 657955113,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-29T14:56:39Z",
+                    "open_issues": 0,
                     "owner": "WangRongsheng",
                     "repo": "IvyGPT",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "large-language-models",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -827,12 +1285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 681012123,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-21T04:32:33Z",
+                    "open_issues": 1,
                     "owner": "189569400",
                     "repo": "MedicalGPT-zh",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 }
@@ -850,12 +1313,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型",
+                    "homepage": "https://chatlaw.cloud/",
                     "id": 650600874,
                     "language": null,
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-01-04T15:29:26Z",
+                    "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7591
+                    "stars": 7591,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -866,12 +1334,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
+                    "homepage": "https://github.com/pengxiao-song/LaWGPT/",
                     "id": 630540983,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-11T07:20:19Z",
+                    "open_issues": 87,
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6058
+                    "stars": 6058,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -882,12 +1355,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中文法律对话语言模型",
+                    "homepage": null,
                     "id": 625463404,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-13T08:25:34Z",
+                    "open_issues": 28,
                     "owner": "LiuHC0428",
                     "repo": "LAW-GPT",
-                    "stars": 1195
+                    "stars": 1195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -898,12 +1376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LexiLaw - 中文法律大模型",
+                    "homepage": null,
                     "id": 641321516,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-12T05:47:03Z",
+                    "open_issues": 53,
                     "owner": "CSHaitao",
                     "repo": "LexiLaw",
-                    "stars": 1041
+                    "stars": 1041,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -914,12 +1397,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中文法律LLaMA (LLaMA for Chinese legel domain)",
+                    "homepage": null,
                     "id": 626885698,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-28T09:23:35Z",
+                    "open_issues": 36,
                     "owner": "AndrewZhe",
                     "repo": "lawyer-llama",
-                    "stars": 1000
+                    "stars": 1000,
+                    "topics": [
+                      "alpaca",
+                      "large-language-models",
+                      "legal-ai",
+                      "llama",
+                      "llm",
+                      "nlp",
+                      "plm",
+                      "pretrained-language-model",
+                      "pretrained-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -930,12 +1428,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[中文法律大模型] DISC-LawLLM: an intelligent legal system powered by large language models (LLMs) to provide a wide range of legal services. ",
+                    "homepage": null,
                     "id": 694631294,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-27T07:45:58Z",
+                    "open_issues": 31,
                     "owner": "FudanDISC",
                     "repo": "DISC-LawLLM",
-                    "stars": 950
+                    "stars": 950,
+                    "topics": [
+                      "domain-llm",
+                      "legal-intelligence",
+                      "legal-llm",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -946,12 +1454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 679606269,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-09T02:51:29Z",
+                    "open_issues": 15,
                     "owner": "zhihaiLLM",
                     "repo": "wisdomInterrogatory",
-                    "stars": 550
+                    "stars": 550,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -962,12 +1475,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。",
+                    "homepage": null,
                     "id": 685453475,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-30T06:24:22Z",
+                    "open_issues": 15,
                     "owner": "irlab-sdu",
                     "repo": "fuzi.mingcha",
-                    "stars": 390
+                    "stars": 390,
+                    "topics": [
+                      "chatglm-6b",
+                      "judicial",
+                      "large-language-models",
+                      "legal",
+                      "legal-ai",
+                      "legalai",
+                      "llms",
+                      "nlp",
+                      "pretrained-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -978,12 +1506,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "国内首个全参数训练的法律大模型 HanFei-1.0 (韩非)",
+                    "homepage": null,
                     "id": 647322598,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-28T12:55:07Z",
+                    "open_issues": 5,
                     "owner": "siat-nlp",
                     "repo": "HanFei",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -994,12 +1527,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "律知, 法律咨询大模型",
+                    "homepage": null,
                     "id": 666052438,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-19T09:17:58Z",
+                    "open_issues": 0,
                     "owner": "davidpig",
                     "repo": "lychee_law",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1010,12 +1548,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JurisLMs: Jurisprudential Language Models",
+                    "homepage": null,
                     "id": 640739604,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-01T11:19:56Z",
+                    "open_issues": 0,
                     "owner": "SEUIAI",
                     "repo": "JurisLMs",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 }
@@ -1033,12 +1576,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+                    "homepage": "https://fingpt.io",
                     "id": 600544354,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-08-02T03:23:48Z",
+                    "open_issues": 86,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21166
+                    "stars": 21170,
+                    "topics": [
+                      "chatgpt",
+                      "finance",
+                      "fingpt",
+                      "fintech",
+                      "large-language-models",
+                      "machine-learning",
+                      "nlp",
+                      "prompt-engineering",
+                      "pytorch",
+                      "reinforcement-learning",
+                      "robo-advisor",
+                      "sentiment-analysis",
+                      "technical-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1049,12 +1611,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。",
+                    "homepage": null,
                     "id": 696243788,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2024-05-08T13:46:36Z",
+                    "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2259
+                    "stars": 2259,
+                    "topics": [
+                      "chatglm",
+                      "finacial",
+                      "gpt",
+                      "llama",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1065,12 +1638,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "轩辕：度小满中文金融对话大模型",
+                    "homepage": null,
                     "id": 643501883,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-07T06:27:26Z",
+                    "open_issues": 30,
                     "owner": "Duxiaoman-DI",
                     "repo": "XuanYuan",
-                    "stars": 1326
+                    "stars": 1326,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1081,12 +1659,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DISC-FinLLM，中文金融大语言模型（LLM），旨在为用户提供金融场景下专业、智能、全面的金融咨询服务。DISC-FinLLM, a Chinese financial large language model (LLM) designed to provide users with professional, intelligent, and comprehensive financial consulting services in financial scenarios.",
+                    "homepage": "https://fin.fudan-disc.com/",
                     "id": 709253197,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-01T16:09:31Z",
+                    "open_issues": 22,
                     "owner": "FudanDISC",
                     "repo": "DISC-FinLLM",
-                    "stars": 894
+                    "stars": 895,
+                    "topics": [
+                      "chain-of-retrieval",
+                      "financial-large-language-model",
+                      "instruction-tuning",
+                      "retrieval-enhanced-generation",
+                      "tool-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1097,12 +1686,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+                    "homepage": null,
                     "id": 648461026,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-03-04T16:57:22Z",
+                    "open_issues": 12,
                     "owner": "The-FinAI",
                     "repo": "PIXIU",
-                    "stars": 884
+                    "stars": 884,
+                    "topics": [
+                      "aifinance",
+                      "chatgpt",
+                      "fintech",
+                      "gpt-4",
+                      "large-language-models",
+                      "llama",
+                      "machine-learning",
+                      "named-entity-recognition",
+                      "natural-language-processing",
+                      "nlp",
+                      "pixiu",
+                      "question-answering",
+                      "sentiment-analysis",
+                      "stock-price-prediction",
+                      "text-classification"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1113,12 +1723,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "聚宝盆(Cornucopia): 中文金融系列开源可商用大模型，并提供一套高效轻量化的垂直领域LLM训练框架(Pretraining、SFT、RLHF、Quantize等)",
+                    "homepage": "https://zhuanlan.zhihu.com/p/633736418",
                     "id": 634443338,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-30T07:55:51Z",
+                    "open_issues": 20,
                     "owner": "jerry1993-tech",
                     "repo": "Cornucopia-LLaMA-Fin-Chinese",
-                    "stars": 656
+                    "stars": 656,
+                    "topics": [
+                      "chinese",
+                      "finance",
+                      "large-language-models",
+                      "llama",
+                      "nlp",
+                      "qa",
+                      "rlhf",
+                      "sft",
+                      "text-generation",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1129,12 +1755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 473133562,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-10T07:17:58Z",
+                    "open_issues": 9,
                     "owner": "supersymmetry-technologies",
                     "repo": "BBT-FinCUGE-Applications",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1145,12 +1776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 691051863,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-12T08:21:47Z",
+                    "open_issues": 4,
                     "owner": "AbaciNLP",
                     "repo": "InvestLM",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1161,12 +1797,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the paper: WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine",
+                    "homepage": null,
                     "id": 674587784,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-06T09:13:59Z",
+                    "open_issues": 1,
                     "owner": "alipay",
                     "repo": "fin_domain_llm",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "finance",
+                      "gpt",
+                      "large-language-models",
+                      "question-answering"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1177,12 +1823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain",
+                    "homepage": null,
                     "id": 421259354,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-11T23:23:41Z",
+                    "open_issues": 3,
                     "owner": "SALT-NLP",
                     "repo": "FLANG",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 }
@@ -1200,12 +1851,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source educational chat model from ICALK, East China Normal University. 开源中英教育对话大模型。(通用基座模型，GPU部署，数据清理) 致敬: LLaMA, MOSS, BELLE, Ziya, vLLM",
+                    "homepage": "http://educhat.top/",
                     "id": 658612485,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-07-18T13:22:39Z",
+                    "open_issues": 4,
                     "owner": "ECNU-ICALK",
                     "repo": "EduChat",
-                    "stars": 968
+                    "stars": 967,
+                    "topics": [
+                      "belle",
+                      "chinese-nlp",
+                      "data-cleaning",
+                      "education",
+                      "llama",
+                      "llm",
+                      "moss",
+                      "open-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1216,12 +1881,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"桃李“: 国际中文教育大模型",
+                    "homepage": "https://github.com/blcuicall/taoli",
                     "id": 650382188,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-13T04:49:21Z",
+                    "open_issues": 6,
                     "owner": "blcuicall",
                     "repo": "taoli",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 }
@@ -1239,12 +1909,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SecGPT网络安全大模型",
+                    "homepage": null,
                     "id": 720984807,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-25T10:03:37Z",
+                    "open_issues": 52,
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3101
+                    "stars": 3101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1255,12 +1930,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "雅意大模型：为客户打造安全可靠的专属大模型，基于大规模中英文多领域指令数据训练的 LlaMA 2 & BLOOM 系列模型，由中科闻歌算法团队研发。(Repo for YaYi Chinese LLMs based on LlaMA2 & BLOOM)",
+                    "homepage": "https://www.wenge.com/yayi/index.html",
                     "id": 644848887,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-17T07:37:16Z",
+                    "open_issues": 0,
                     "owner": "wenge-research",
                     "repo": "YAYI",
-                    "stars": 2527
+                    "stars": 2527,
+                    "topics": [
+                      "bloom",
+                      "chat",
+                      "chinese",
+                      "llama",
+                      "llama2",
+                      "llm",
+                      "lora",
+                      "yayi"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1271,12 +1960,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 627240200,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T09:05:56Z",
+                    "open_issues": 38,
                     "owner": "PharMolix",
                     "repo": "OpenBioMed",
-                    "stars": 1103
+                    "stars": 1104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1287,12 +1981,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 667200726,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-09-14T11:55:09Z",
+                    "open_issues": 19,
                     "owner": "DUOMO",
                     "repo": "TransGPT",
-                    "stars": 840
+                    "stars": 840,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1303,12 +2002,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!",
+                    "homepage": null,
                     "id": 711708346,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-23T03:46:10Z",
+                    "open_issues": 1,
                     "owner": "codefuse-ai",
                     "repo": "CodeFuse-DevOps-Model",
-                    "stars": 507
+                    "stars": 507,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1319,12 +2023,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoAudit—— the LLM for Cyber Security 网络安全大语言模型",
+                    "homepage": null,
                     "id": 659308524,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2025-02-28T10:55:21Z",
+                    "open_issues": 4,
                     "owner": "ddzipp",
                     "repo": "AutoAudit",
-                    "stars": 354
+                    "stars": 354,
+                    "topics": [
+                      "cyber-security",
+                      "fine-tuning",
+                      "gpt",
+                      "llama",
+                      "lora",
+                      "qlora",
+                      "security-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1335,12 +2052,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Astronomy LLMs, StarWhisper Telescope, Virtual Sitian, and astronomy research skills",
+                    "homepage": "https://yu-yang-li.github.io/StarWhisper/virtual-gotta-map.html",
                     "id": 671277611,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-19T10:58:11Z",
+                    "open_issues": 12,
                     "owner": "Yu-Yang-Li",
                     "repo": "StarWhisper",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": [
+                      "agents",
+                      "ai4s",
+                      "astronomy",
+                      "astrophysics",
+                      "large-language-models",
+                      "llm",
+                      "telescope",
+                      "time-domain-astronomy"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1351,12 +2082,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Instruction-tuned Large Language Model for E-commerce",
+                    "homepage": null,
                     "id": 681002347,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-26T23:04:03Z",
+                    "open_issues": 10,
                     "owner": "Alibaba-NLP",
                     "repo": "EcomGPT",
-                    "stars": 276
+                    "stars": 276,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1367,12 +2103,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Large Language Model for IT Operations",
+                    "homepage": null,
                     "id": 672803144,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-30T09:46:38Z",
+                    "open_issues": 5,
                     "owner": "HC-Guo",
                     "repo": "OWL",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1383,12 +2124,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TechGPT: Technology-Oriented Generative Pretrained Transformer",
+                    "homepage": "http://techgpt.neukg.com",
                     "id": 657547385,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-29T11:57:14Z",
+                    "open_issues": 4,
                     "owner": "neukg",
                     "repo": "TechGPT",
-                    "stars": 228
+                    "stars": 228,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1399,12 +2145,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and datasets for paper \"K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization\" in WSDM-2024",
+                    "homepage": null,
                     "id": 649699520,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-05T13:51:12Z",
+                    "open_issues": 11,
                     "owner": "davendw49",
                     "repo": "k2",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": [
+                      "ai4science",
+                      "data-science",
+                      "geoai",
+                      "geoscience",
+                      "kg",
+                      "large-language-models",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1415,12 +2174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A large-scale language model for scientific domain, trained on redpajama arXiv split",
+                    "homepage": null,
                     "id": 644872722,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-01T03:46:36Z",
+                    "open_issues": 1,
                     "owner": "gmftbyGMFTBY",
                     "repo": "science-llm",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1431,12 +2195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of MarineGPT",
+                    "homepage": null,
                     "id": 704078450,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-02T08:19:02Z",
+                    "open_issues": 3,
                     "owner": "hkust-vgd",
                     "repo": "MarineGPT",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1447,12 +2216,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Research and Development of Agricultural Large Models|农业大模型研究与开发",
+                    "homepage": "https://agrigpts.github.io/AgriGPTs/",
                     "id": 699999100,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2023-10-04T22:58:56Z",
+                    "open_issues": 2,
                     "owner": "AgriGPTs",
                     "repo": "AgriGPTs",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "agriculture",
+                      "llms"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 }
@@ -1479,12 +2256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official github repo for C-Eval, a Chinese evaluation suite for foundation models [NeurIPS 2023]",
+            "homepage": "https://cevalbenchmark.com/",
             "id": 639699692,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-27T03:55:53Z",
+            "open_issues": 6,
             "owner": "hkust-nlp",
             "repo": "ceval",
-            "stars": 1867
+            "stars": 1867,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1495,12 +2277,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+            "homepage": null,
             "id": 648461026,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-04T16:57:22Z",
+            "open_issues": 12,
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 884
+            "stars": 884,
+            "topics": [
+              "aifinance",
+              "chatgpt",
+              "fintech",
+              "gpt-4",
+              "large-language-models",
+              "llama",
+              "machine-learning",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp",
+              "pixiu",
+              "question-answering",
+              "sentiment-analysis",
+              "stock-price-prediction",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1511,12 +2314,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CBLUE1] 中文医疗信息处理基准CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark",
+            "homepage": "https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414&lang=en-us",
             "id": 363002942,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-03T15:28:49Z",
+            "open_issues": 0,
             "owner": "CBLUEbenchmark",
             "repo": "CBLUE",
-            "stars": 855
+            "stars": 855,
+            "topics": [
+              "acl2022",
+              "benchmark",
+              "biomedical-tasks",
+              "chinese",
+              "chineseblue",
+              "corpus",
+              "dataset",
+              "evaluation"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1527,12 +2344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMMLU: Measuring massive multitask language understanding in Chinese",
+            "homepage": null,
             "id": 654578300,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-06T08:54:24Z",
+            "open_issues": 3,
             "owner": "haonan-li",
             "repo": "CMMLU",
-            "stars": 835
+            "stars": 835,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1543,12 +2365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 619121820,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-13T14:20:51Z",
+            "open_issues": 9,
             "owner": "ruixiangcui",
             "repo": "AGIEval",
-            "stars": 776
+            "stars": 776,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1559,12 +2386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Industrial-first evaluation benchmark for  LLMs in the DevOps/AIOps domain.",
+            "homepage": null,
             "id": 697550338,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-10T03:37:38Z",
+            "open_issues": 8,
             "owner": "codefuse-ai",
             "repo": "codefuse-devops-eval",
-            "stars": 656
+            "stars": 656,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1575,12 +2407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open science effort to benchmark legal reasoning in foundation models",
+            "homepage": null,
             "id": 526713161,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-30T05:23:35Z",
+            "open_issues": 19,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 628
+            "stars": 628,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1591,12 +2428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking Legal Knowledge of Large Language Models",
+            "homepage": null,
             "id": 685923474,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-13T06:42:45Z",
+            "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "benchmark",
+              "chatgpt",
+              "law",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1607,12 +2454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PromptCBLUE: a large-scale instruction-tuning dataset for multi-task and few-shot learning in the medical domain in Chinese",
+            "homepage": null,
             "id": 623277642,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-23T13:53:41Z",
+            "open_issues": 5,
             "owner": "michael-wzhu",
             "repo": "PromptCBLUE",
-            "stars": 393
+            "stars": 393,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1623,12 +2475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 719213025,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-12-03T17:29:02Z",
+            "open_issues": 12,
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1639,12 +2496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473133562,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-10T07:17:58Z",
+            "open_issues": 9,
             "owner": "supersymmetry-technologies",
             "repo": "BBT-FinCUGE-Applications",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1655,12 +2517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The FinEval financial domain evaluation benchmark, based on quantitative fundamental methods and developed through long-term objective research, summarization, and rigorous manual screening, utilizes over 26,000 diverse question types that are highly consistent with real-world application scenarios.",
+            "homepage": null,
             "id": 677947508,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-23T03:39:27Z",
+            "open_issues": 5,
             "owner": "SUFE-AIFLM-Lab",
             "repo": "FinEval",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1671,12 +2538,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LexGLUE: A Benchmark Dataset for Legal Language Understanding in English",
+            "homepage": null,
             "id": 411072132,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-23T07:39:34Z",
+            "open_issues": 1,
             "owner": "coastalcph",
             "repo": "lex-glue",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "benchmark",
+              "lawtech",
+              "legal",
+              "legaltech",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1687,12 +2565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Large Language Model for IT Operations",
+            "homepage": null,
             "id": 672803144,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-30T09:46:38Z",
+            "open_issues": 5,
             "owner": "HC-Guo",
             "repo": "OWL",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1703,12 +2586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 650763732,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-05T11:26:48Z",
+            "open_issues": 5,
             "owner": "MikeGu721",
             "repo": "XiezhiBenchmark",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1719,12 +2607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LAiW: A Chinese Legal Large Language Models Benchmark",
+            "homepage": null,
             "id": 687351810,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-03T01:56:29Z",
+            "open_issues": 4,
             "owner": "Dai-shen",
             "repo": "LAiW",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1735,28 +2628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MEASURING MASSIVE MULTITASK CHINESE UNDERSTANDING",
+            "homepage": null,
             "id": 631500022,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-24T07:02:28Z",
+            "open_issues": 11,
             "owner": "Felixgithub2017",
             "repo": "MMCU",
-            "stars": 90
-          },
-          "first_seen": "2026-08-28T12:41:14.278Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FLUE",
-          "description": "[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 421259354,
-            "language": "Python",
-            "last_commit": "2025-02-11T23:23:41Z",
-            "owner": "SALT-NLP",
-            "repo": "FLANG",
-            "stars": 57
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1767,12 +2649,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese Financial Assistant Benchmark for Large Language Model",
+            "homepage": null,
             "id": 710200412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-30T01:19:32Z",
+            "open_issues": 3,
             "owner": "TongjiFinLab",
             "repo": "CFBenchmark",
-            "stars": 56
+            "stars": 57,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:41:14.278Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FLUE",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain",
+            "homepage": null,
+            "id": 421259354,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-02-11T23:23:41Z",
+            "open_issues": 3,
+            "owner": "SALT-NLP",
+            "repo": "FLANG",
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1783,12 +2691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides scripts for evaluating NLP models on the LEXTREME benchmark, a set of diverse multilingual tasks in legal NLP",
+            "homepage": null,
             "id": 492911887,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-28T19:23:11Z",
+            "open_issues": 0,
             "owner": "JoelNiklaus",
             "repo": "LEXTREME",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         },
@@ -1799,12 +2712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese Generation Evaluation",
+            "homepage": null,
             "id": 671356531,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-14T06:54:50Z",
+            "open_issues": 2,
             "owner": "Felixgithub2017",
             "repo": "CG-Eval",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
         }
@@ -1823,12 +2741,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
+                "homepage": null,
                 "id": 681516317,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-31T09:18:04Z",
+                "open_issues": 10,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4534
+                "stars": 4534,
+                "topics": [
+                  "ai",
+                  "aigc",
+                  "awesome",
+                  "chatgpt",
+                  "courses-resource",
+                  "deep-learning",
+                  "llm",
+                  "midjourney",
+                  "multimodal",
+                  "nlp",
+                  "prompt-engineering",
+                  "stable-diffusion",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -1839,12 +2776,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
+                "homepage": "https://arxiv.org/abs/2311.07989",
                 "id": 694517360,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-20T07:33:12Z",
+                "open_issues": 18,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3435
+                "stars": 3435,
+                "topics": [
+                  "ai",
+                  "awesome",
+                  "datasets",
+                  "llm",
+                  "nlp",
+                  "papers",
+                  "software-engineering",
+                  "survey",
+                  "tmlr"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -1855,12 +2807,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc.",
+                "homepage": null,
                 "id": 697550206,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-01T09:16:47Z",
+                "open_issues": 8,
                 "owner": "codefuse-ai",
                 "repo": "codefuse-chatbot",
-                "stars": 1290
+                "stars": 1290,
+                "topics": [
+                  "aiops",
+                  "chatbot",
+                  "code-repo-analysis",
+                  "code-repo-generation",
+                  "devops",
+                  "gpt",
+                  "knowledge-graph",
+                  "langchain",
+                  "multi-agent",
+                  "rag",
+                  "tool-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -1871,12 +2840,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of papers and applications on tool learning.",
+                "homepage": null,
                 "id": 679142069,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-12-27T02:46:09Z",
+                "open_issues": 1,
                 "owner": "luban-agi",
                 "repo": "Awesome-Tool-Learning",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "awesome-list",
+                  "in-context-learning",
+                  "llm",
+                  "papers",
+                  "tool-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             },
@@ -1887,12 +2867,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated paper list on LLM reasoning.",
+                "homepage": null,
                 "id": 687276210,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-04T05:45:17Z",
+                "open_issues": 2,
                 "owner": "luban-agi",
                 "repo": "Awesome-LLM-reasoning",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "awesome-list",
+                  "llm",
+                  "paper-list",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
             }
@@ -1906,15 +2896,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:41:14.278Z",
+    "last_updated": "2026-08-29T04:30:03.389Z",
     "original_repository_info": {
       "archived": false,
+      "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
+      "homepage": null,
       "id": 687404865,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-12-26T12:35:03Z",
+      "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2581
+      "stars": 2581,
+      "topics": [
+        "awesome-list",
+        "dataset",
+        "llm",
+        "nlp",
+        "paper-list"
+      ]
     },
     "original_repository_sha": "1b8d55a46155fd36b9c2506308ea7d6a8d6b8f3f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-LLM",
