@@ -17,9 +17,9 @@
 
 ## 🔔 更新
 
-* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,709 | 🐛 43 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
+* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,710 | 🐛 43 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
 * \[2023/9/22] 增加[InternLM(书生•浦语)](https://github.com/InternLM/InternLM) ⭐ 7,277 | 🐛 8 | 🌐 Python | 📅 2025-10-30，上海AI实验室与商汤科技联合香港中文大学和复旦大学开源的多语基座模型。
-* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,102 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 107 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 357 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
+* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,104 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 107 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 357 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
 * \[2023/10/01] 增加[DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 953 | 🐛 31 | 🌐 Python | 📅 2025-05-27，由复旦大学开源的旨在为用户提供专业、智能、全面的法律服务的法律领域大模型。增加[FinGLM](https://github.com/MetaGLM/FinGLM) ⭐ 2,267 | 🐛 7 | 🌐 HTML | 📅 2024-05-08，致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
 * \[2023/10/28] 增加金融大模型[DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ 896 | 🐛 22 | 🌐 Python | 📅 2023-11-01、医学大模型[AlpaCare](https://github.com/XZhang97666/AlpaCare) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2025-02-08、海洋大模型[MarineGPT](https://github.com/hkust-vgd/MarineGPT) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2024-03-02。
 * \[2023/11/01] 增加由蚂蚁集团联合北京大学发布的DevOps领域大模型[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) ⚠️ Archived和评测基准[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval) ⭐ 656 | 🐛 8 | 🌐 Python | 📅 2024-07-10。
@@ -55,9 +55,9 @@
 
 |                                                   模型                                                   |                                 大小                                 |                                             机构                                            |                                                       论文                                                       |
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|  [LLaMA2](https://github.com/facebookresearch/llama) ⭐ 59,603 \| 🐛 531 \| 🌐 Python \| 📅 2025-01-26  |           7B/7B-Chat <br> 13B/13B-Chat <br> 70B/70B-Chat           |                                [Meta](https://ai.meta.com/)                               |                                    [paper](https://arxiv.org/abs/2307.09288)                                   |
-|    [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) ⭐ 13,657 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13    |                          6B-Base/6B/6B-32K                         | [清华大学](https://github.com/THUDM/ChatGLM3) ⭐ 13,657 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13 |                                    [paper](https://arxiv.org/abs/2210.02414)                                   |
-|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,709 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
+|  [LLaMA2](https://github.com/facebookresearch/llama) ⭐ 59,604 \| 🐛 531 \| 🌐 Python \| 📅 2025-01-26  |           7B/7B-Chat <br> 13B/13B-Chat <br> 70B/70B-Chat           |                                [Meta](https://ai.meta.com/)                               |                                    [paper](https://arxiv.org/abs/2307.09288)                                   |
+|    [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) ⭐ 13,656 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13    |                          6B-Base/6B/6B-32K                         | [清华大学](https://github.com/THUDM/ChatGLM3) ⭐ 13,656 \| 🐛 35 \| 🌐 Python \| 📅 2025-01-13 |                                    [paper](https://arxiv.org/abs/2210.02414)                                   |
+|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,710 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
 | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,083 \| 🐛 281 \| 🌐 Python \| 📅 2024-11-08 |                    7B/7B-Chat <br> 13B/13B-Chat                    |                          [百川智能](https://www.baichuan-ai.com/home)                         |                                    [paper](https://arxiv.org/abs/2309.10305)                                   |
 |     [InternLM](https://github.com/InternLM/InternLM) ⭐ 7,277 \| 🐛 8 \| 🌐 Python \| 📅 2025-10-30     |                    7B/7B-Chat <br> 20B/20B-Chat                    |                        [上海AI实验室](https://internlm.intern-ai.org.cn)                       | [paper](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf) ⭐ 893 \| 🐛 6 \| 📅 2023-06-07 |
 
@@ -65,16 +65,16 @@
 
 #### 🏥 医疗
 
-* [MedicalGPT](https://github.com/shibing624/MedicalGPT) ⭐ 5,794 | 🐛 6 | 🌐 Python | 📅 2026-06-03
+* [MedicalGPT](https://github.com/shibing624/MedicalGPT) ⭐ 5,796 | 🐛 7 | 🌐 Python | 📅 2026-06-03
   ![](https://img.shields.io/github/stars/shibing624/MedicalGPT.svg?style=social)
   * 该项目开源了医疗大模型MedicalGPT，实现了包括增量预训练、有监督微调、RLHF(奖励建模、强化学习训练)和DPO(直接偏好优化)。
 
-* [BenTsao (本草)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,991 | 🐛 28 | 🌐 Python | 📅 2026-07-04
+* [BenTsao (本草)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,992 | 🐛 28 | 🌐 Python | 📅 2026-07-04
   ![](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg?style=social)
   \[[paper](https://arxiv.org/abs/2304.06975)]
   * 该项目开源了经过中文医学指令微调的大语言模型集，包括LLaMA、Alpaca-Chinese、Bloom、活字模型等。我们基于医学知识图谱以及医学文献，结合ChatGPT API构建了中文医学指令微调数据集，并以此对各种基模型进行了指令微调，提高了基模型在医疗领域的问答效果。
 
-* [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,630 | 🐛 49 | 🌐 Python | 📅 2024-05-17
+* [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,631 | 🐛 49 | 🌐 Python | 📅 2024-05-17
   ![](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg?style=social)
   \[[paper](https://arxiv.org/abs/2303.14070)]
   * 该项目开源了医疗大模型ChatDoctor，在LLaMA的基础上训练得到。
@@ -138,7 +138,7 @@
   \[[paper](https://arxiv.org/abs/2305.00450)]
   * 该项目开源了中文心理健康支持对话大模型与数据集。模型由ChatGLM-6B LoRA 16-bit指令微调得到。数据集通过ChatGPT改写真实的心理互助QA为多轮的心理健康支持多轮对话，该数据集含有56k个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。
 
-* [ZhongJing (仲景)](https://github.com/pariskang/CMLM-ZhongJing) ⭐ 520 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-06-10
+* [ZhongJing (仲景)](https://github.com/pariskang/CMLM-ZhongJing) ⭐ 523 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-06-10
   ![](https://img.shields.io/github/stars/pariskang/CMLM-ZhongJing.svg?style=social)
   * 该项目开源了中医大模型ZhongJing (仲景)，该模型旨在阐明中医博大精深之知识，传承古代智慧与现代技术创新，最终为医学领域提供可信赖和专业的工具。
 
@@ -150,7 +150,7 @@
   ![](https://img.shields.io/github/stars/openmedlab/PULSE.svg?style=social)
   * 该项目开源了中文医疗大模型PULSE，该模型使用约4,000,000个中文医学领域和通用领域的指令微调数据进行微调，支持医学领域的各种自然语言处理任务，包括健康教育、医师考试问题、报告解读、医疗记录结构化以及模拟诊断和治疗。
 
-* [Sunsimiao (孙思邈)](https://github.com/thomas-yanxin/Sunsimiao) ⭐ 469 | 🐛 6 | 🌐 Python | 📅 2024-09-13
+* [Sunsimiao (孙思邈)](https://github.com/thomas-yanxin/Sunsimiao) ⭐ 470 | 🐛 6 | 🌐 Python | 📅 2024-09-13
   ![](https://img.shields.io/github/stars/thomas-yanxin/Sunsimiao.svg?style=social)
   * 该项目开源了中文医疗大模型Sunsimiao，该模型基于baichuan-7B和ChatGLM-6B底座模型在十万级高质量的中文医疗数据中微调而得。
 
@@ -168,7 +168,7 @@
   \[[paper](https://arxiv.org/abs/2309.13567)]
   * 该项目开源了心理大模型MentalLLaMA，可以用于社交媒体上可解释的心理健康分析。
 
-* [TCMLLM](https://github.com/2020MEAI/TCMLLM) ⭐ 264 | 🐛 9 | 🌐 Python | 📅 2025-05-27
+* [TCMLLM](https://github.com/2020MEAI/TCMLLM) ⭐ 266 | 🐛 9 | 🌐 Python | 📅 2025-05-27
   ![](https://img.shields.io/github/stars/2020MEAI/TCMLLM.svg?style=social)
   * 该项目拟通过大模型方式实现中医临床辅助诊疗（病证诊断、处方推荐等）中医药知识问答等任务，推动中医知识问答、临床辅助诊疗等领域的快速发展。目前针对中医临床智能诊疗问题中的处方推荐任务，发布了中医处方推荐大模型TCMLLM-PR，通过整合真实世界临床病历、医学典籍与中医教科书等数据，构建了包含68k数据条目的处方推荐指令微调数据集，在ChatGLM大模型上进行微调得到。
 
@@ -210,7 +210,7 @@
 
 #### ⚖ 法律
 
-* [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) ⭐ 7,603 | 🐛 65 | 📅 2025-01-04
+* [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) ⭐ 7,602 | 🐛 65 | 📅 2025-01-04
   ![](https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw.svg?style=social)
   \[[paper](https://arxiv.org/abs/2306.16092)]
   * 由北大开源的一系列法律大模型，使用大量法律新闻、法律论坛、法条、司法解释、法律咨询、法考题、判决文书等原始文本来构造对话数据，包括基于姜子牙-13B、Anima-33B训练而来的ChatLaw-13B和ChatLaw-33B。此外，还开源了ChatLaw-Text2Vec，使用93w条判决案例做成的数据集基于BERT训练了一个相似度匹配模型，可将用户提问信息和对应的法条相匹配。
@@ -245,7 +245,7 @@
   ![](https://img.shields.io/github/stars/irlab-sdu/fuzi.mingcha.svg?style=social)
   * 夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料（包括各类判决文书、法律法规等）与有监督司法微调数据（包括法律问答、类案检索）训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。
 
-* [HanFei (韩非)](https://github.com/siat-nlp/HanFei) ⭐ 131 | 🐛 5 | 🌐 Python | 📅 2023-10-28
+* [HanFei (韩非)](https://github.com/siat-nlp/HanFei) ⭐ 132 | 🐛 5 | 🌐 Python | 📅 2023-10-28
   ![](https://img.shields.io/github/stars/siat-nlp/HanFei.svg?style=social)
   * HanFei-1.0(韩非)是国内首个全参数训练的法律大模型，参数量7b，主要功能包括：法律问答、多轮对话、撰写文章、检索等。
 
@@ -259,7 +259,7 @@
 
 #### 💰 金融
 
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,230 | 🐛 83 | 🌐 Jupyter Notebook | 📅 2026-09-08
+* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,236 | 🐛 83 | 🌐 Jupyter Notebook | 📅 2026-09-08
   ![](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT.svg?style=social)
   \[[paper1](https://arxiv.org/abs/2306.06031)]
   \[[paper2](https://arxiv.org/abs/2310.04793)]
@@ -288,7 +288,7 @@
   ![](https://img.shields.io/github/stars/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese.svg?style=social)
   * 该项目基于公开和爬取的中文金融领域问答数据构建指令数据集，并在此基础上对LLaMA系模型进行了指令微调，提高了LLaMA在金融领域的问答效果。
 
-* [BBT-FinCUGE-Applications](https://github.com/ssymmetry/BBT-FinCUGE-Applications) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2023-07-10
+* [BBT-FinCUGE-Applications](https://github.com/ssymmetry/BBT-FinCUGE-Applications) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2026-09-10
   ![](https://img.shields.io/github/stars/ssymmetry/BBT-FinCUGE-Applications.svg?style=social)
   \[[paper](https://arxiv.org/abs/2302.09432)]
   * 该项目开源了中文金融领域语料库BBT-FinCorpus，知识增强型大模型BBT-FinT5及评测基准CFLEB。
@@ -324,7 +324,7 @@
 
 #### ➕ 其他
 
-* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,102 | 🐛 52 | 🌐 Python | 📅 2025-06-25
+* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,104 | 🐛 52 | 🌐 Python | 📅 2025-06-25
   ![](https://img.shields.io/github/stars/Clouditera/secgpt.svg?style=social)
   ![](https://img.shields.io/badge/安全-blue)
   * 该项目开源了网络安全大模型SecGPT，该模型基于Baichuan-13B采用Lora做预训练和SFT训练，还开源了相关预训练和指令微调数据集。
@@ -362,7 +362,7 @@
   ![](https://img.shields.io/badge/天文-blue)
   * 在天文科学教育联盟、集思谱文献平台、司天工程的支持下，基于天文大模型StarGLM开发经验，我们进一步训练了星语StarWhisper系列模型(包括6B,7B,13B,14B,20B)。以进一步缓解大模型在天文通用知识的幻觉现象，为接下来可处理天文多模态任务、部署于望远镜阵列的科学具身智能——司天大脑打下基础。
 
-* [EcomGPT](https://github.com/Alibaba-NLP/EcomGPT) ⭐ 278 | 🐛 10 | 🌐 Python | 📅 2023-09-26
+* [EcomGPT](https://github.com/Alibaba-NLP/EcomGPT) ⭐ 279 | 🐛 10 | 🌐 Python | 📅 2023-09-26
   ![](https://img.shields.io/github/stars/Alibaba-NLP/EcomGPT.svg?style=social)
   \[[paper](https://arxiv.org/abs/2308.06966)]
   ![](https://img.shields.io/badge/电商-blue)
@@ -427,7 +427,7 @@
   ![](https://img.shields.io/badge/金融-blue)
   * FLARE是一个金融评测基准，包含了金融知识理解和预测等任务。
 
-* [CBLUE](https://github.com/CBLUEbenchmark/CBLUE) ⭐ 855 | 🐛 0 | 🌐 Python | 📅 2023-05-03
+* [CBLUE](https://github.com/CBLUEbenchmark/CBLUE) ⭐ 854 | 🐛 0 | 🌐 Python | 📅 2023-05-03
   ![](https://img.shields.io/github/stars/CBLUEbenchmark/CBLUE.svg?style=social)
   \[[paper](https://arxiv.org/abs/2106.08087)]
   ![](https://img.shields.io/badge/医疗-blue)
@@ -480,7 +480,7 @@
   ![](https://img.shields.io/badge/金融-blue)
   * FinEval是一个金融知识评测基准，包含了4,661个高质量的多项选择题，涵盖金融、经济、会计和证书等领域，34个不同的学术科目。
 
-* [CFLEB](https://github.com/ssymmetry/BBT-FinCUGE-Applications) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2023-07-10
+* [CFLEB](https://github.com/ssymmetry/BBT-FinCUGE-Applications) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2026-09-10
   ![](https://img.shields.io/github/stars/ssymmetry/BBT-FinCUGE-Applications.svg?style=social)
   \[[paper](https://arxiv.org/abs/2302.09432)]
   ![](https://img.shields.io/badge/金融-blue)
@@ -566,4 +566,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
