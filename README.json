@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21709,
+            "stars": 21711,
             "topics": [
               "chinese",
               "flash-attention",
@@ -47,7 +47,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7278,
+            "stars": 7276,
             "topics": [
               "chatbot",
               "chinese",
@@ -79,7 +79,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3104,
+            "stars": 3103,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -305,7 +305,7 @@
             "open_issues": 1,
             "owner": "EmoCareAI",
             "repo": "ChatPsychiatrist",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -360,7 +360,7 @@
                 "open_issues": 531,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59606,
+                "stars": 59608,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-01-13T06:55:26Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13656,
+                "stars": 13655,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -402,7 +402,7 @@
                 "open_issues": 43,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21709,
+                "stars": 21711,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -464,7 +464,7 @@
                 "open_issues": 8,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7278,
+                "stars": 7276,
                 "topics": [
                   "chatbot",
                   "chinese",
@@ -526,7 +526,7 @@
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5798,
+                    "stars": 5799,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -683,7 +683,7 @@
                     "open_issues": 0,
                     "owner": "WangRongsheng",
                     "repo": "CareGPT",
-                    "stars": 1002,
+                    "stars": 1001,
                     "topics": [
                       "baichuan",
                       "gpt",
@@ -1040,7 +1040,7 @@
                     "open_issues": 2,
                     "owner": "winninghealth",
                     "repo": "WiNGPT2",
-                    "stars": 436,
+                    "stars": 437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1180,7 +1180,7 @@
                     "open_issues": 1,
                     "owner": "EmoCareAI",
                     "repo": "ChatPsychiatrist",
-                    "stars": 163,
+                    "stars": 164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1322,7 +1322,7 @@
                     "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7602,
+                    "stars": 7603,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1343,7 +1343,7 @@
                     "open_issues": 87,
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6060,
+                    "stars": 6061,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 77,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21241,
+                    "stars": 21242,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1918,7 +1918,7 @@
                     "open_issues": 52,
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3104,
+                    "stars": 3103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2547,7 +2547,7 @@
             "open_issues": 1,
             "owner": "coastalcph",
             "repo": "lex-glue",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "benchmark",
               "lawtech",
@@ -2750,7 +2750,7 @@
                 "open_issues": 10,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4539,
+                "stars": 4541,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2782,10 +2782,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-20T07:33:12Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3436,
+                "stars": 3437,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:39:44.911Z",
+    "last_updated": "2026-09-13T05:59:44.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
