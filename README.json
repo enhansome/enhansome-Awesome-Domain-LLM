@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 44,
+            "open_issues": 42,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21726,
+            "stars": 21751,
             "topics": [
               "chinese",
               "flash-attention",
@@ -44,10 +44,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-10-30T00:35:43Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7278,
+            "stars": 7279,
             "topics": [
               "chatbot",
               "chinese",
@@ -79,7 +79,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3103,
+            "stars": 3101,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -174,7 +174,7 @@
             "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "benchmark",
               "chatgpt",
@@ -357,10 +357,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-26T21:42:26Z",
-                "open_issues": 534,
+                "open_issues": 532,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59615,
+                "stars": 59616,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -381,7 +381,7 @@
                 "open_issues": 35,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13652,
+                "stars": 13651,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -399,10 +399,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 44,
+                "open_issues": 42,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21726,
+                "stars": 21751,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -427,7 +427,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-11-08T08:31:29Z",
-                "open_issues": 282,
+                "open_issues": 281,
                 "owner": "baichuan-inc",
                 "repo": "Baichuan2",
                 "stars": 4083,
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-30T00:35:43Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7278,
+                "stars": 7279,
                 "topics": [
                   "chatbot",
                   "chinese",
@@ -522,11 +522,11 @@
                     "id": 648505057,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T06:44:09Z",
+                    "last_commit": "2026-09-15T13:46:54Z",
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5807,
+                    "stars": 5814,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -555,7 +555,7 @@
                     "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4993,
+                    "stars": 4994,
                     "topics": [
                       "aidoctor",
                       "bloom",
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1327,
+                    "stars": 1328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -760,7 +760,7 @@
                     "open_issues": 8,
                     "owner": "CMKRG",
                     "repo": "QiZhenGPT",
-                    "stars": 776,
+                    "stars": 777,
                     "topics": [
                       "alpaca",
                       "chatgpt",
@@ -1114,7 +1114,7 @@
                     "open_issues": 9,
                     "owner": "2020MEAI",
                     "repo": "TCMLLM",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 52,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21250,
+                    "stars": 21253,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2266,
+                    "stars": 2268,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -1918,7 +1918,7 @@
                     "open_issues": 52,
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3103,
+                    "stars": 3101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1939,7 +1939,7 @@
                     "open_issues": 0,
                     "owner": "wenge-research",
                     "repo": "YAYI",
-                    "stars": 2526,
+                    "stars": 2527,
                     "topics": [
                       "bloom",
                       "chat",
@@ -2091,7 +2091,7 @@
                     "open_issues": 10,
                     "owner": "Alibaba-NLP",
                     "repo": "EcomGPT",
-                    "stars": 279,
+                    "stars": 280,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2437,7 +2437,7 @@
             "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "benchmark",
               "chatgpt",
@@ -2750,7 +2750,7 @@
                 "open_issues": 10,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4543,
+                "stars": 4544,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2785,7 +2785,7 @@
                 "open_issues": 21,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:06:11.180Z",
+    "last_updated": "2026-09-16T05:55:24.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2582,
+      "stars": 2583,
       "topics": [
         "awesome-list",
         "dataset",
