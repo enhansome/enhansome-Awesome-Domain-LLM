@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21783,
+            "stars": 21791,
             "topics": [
               "chinese",
               "flash-attention",
@@ -47,7 +47,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7282,
+            "stars": 7281,
             "topics": [
               "chatbot",
               "chinese",
@@ -360,7 +360,7 @@
                 "open_issues": 532,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59619,
+                "stars": 59618,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -402,7 +402,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21783,
+                "stars": 21791,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -464,7 +464,7 @@
                 "open_issues": 8,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7282,
+                "stars": 7281,
                 "topics": [
                   "chatbot",
                   "chinese",
@@ -555,7 +555,7 @@
                     "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4991,
+                    "stars": 4992,
                     "topics": [
                       "aidoctor",
                       "bloom",
@@ -1322,7 +1322,7 @@
                     "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7606,
+                    "stars": 7608,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1343,7 +1343,7 @@
                     "open_issues": 87,
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6059,
+                    "stars": 6060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 53,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21263,
+                    "stars": 21270,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2269,
+                    "stars": 2270,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -2057,7 +2057,7 @@
                     "id": 671277611,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-19T10:58:11Z",
+                    "last_commit": "2026-09-20T05:49:32Z",
                     "open_issues": 12,
                     "owner": "Yu-Yang-Li",
                     "repo": "StarWhisper",
@@ -2154,7 +2154,7 @@
                     "open_issues": 11,
                     "owner": "davendw49",
                     "repo": "k2",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": [
                       "ai4science",
                       "data-science",
@@ -2484,7 +2484,7 @@
             "open_issues": 11,
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2750,7 +2750,7 @@
                 "open_issues": 10,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4546,
+                "stars": 4547,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2785,7 +2785,7 @@
                 "open_issues": 21,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3441,
+                "stars": 3442,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:44:58.611Z",
+    "last_updated": "2026-09-20T06:05:59.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2584,
+      "stars": 2583,
       "topics": [
         "awesome-list",
         "dataset",
