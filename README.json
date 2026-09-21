@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21791,
+            "stars": 21797,
             "topics": [
               "chinese",
               "flash-attention",
@@ -47,7 +47,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7281,
+            "stars": 7280,
             "topics": [
               "chatbot",
               "chinese",
@@ -79,7 +79,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3103,
+            "stars": 3104,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -357,7 +357,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-26T21:42:26Z",
-                "open_issues": 532,
+                "open_issues": 533,
                 "owner": "meta-llama",
                 "repo": "llama",
                 "stars": 59618,
@@ -402,7 +402,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21791,
+                "stars": 21797,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -430,7 +430,7 @@
                 "open_issues": 281,
                 "owner": "baichuan-inc",
                 "repo": "Baichuan2",
-                "stars": 4083,
+                "stars": 4082,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark",
@@ -464,7 +464,7 @@
                 "open_issues": 8,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7281,
+                "stars": 7280,
                 "topics": [
                   "chatbot",
                   "chinese",
@@ -526,7 +526,7 @@
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5823,
+                    "stars": 5827,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -555,7 +555,7 @@
                     "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4992,
+                    "stars": 4993,
                     "topics": [
                       "aidoctor",
                       "bloom",
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1328,
+                    "stars": 1329,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -790,7 +790,7 @@
                     "open_issues": 16,
                     "owner": "scutcyr",
                     "repo": "SoulChat",
-                    "stars": 762,
+                    "stars": 763,
                     "topics": [
                       "chatbot",
                       "conversational-ai",
@@ -964,7 +964,7 @@
                     "open_issues": 7,
                     "owner": "michael-wzhu",
                     "repo": "ShenNong-TCM-LLM",
-                    "stars": 509,
+                    "stars": 510,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1114,7 +1114,7 @@
                     "open_issues": 9,
                     "owner": "2020MEAI",
                     "repo": "TCMLLM",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1322,7 +1322,7 @@
                     "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7608,
+                    "stars": 7607,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1918,7 +1918,7 @@
                     "open_issues": 52,
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3103,
+                    "stars": 3104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2265,7 +2265,7 @@
             "open_issues": 6,
             "owner": "hkust-nlp",
             "repo": "ceval",
-            "stars": 1870,
+            "stars": 1872,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2416,7 +2416,7 @@
             "open_issues": 20,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 637,
+            "stars": 638,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2750,7 +2750,7 @@
                 "open_issues": 10,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4547,
+                "stars": 4550,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:05:59.310Z",
+    "last_updated": "2026-09-21T06:11:54.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2583,
+      "stars": 2584,
       "topics": [
         "awesome-list",
         "dataset",
