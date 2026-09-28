@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21864,
+            "stars": 21866,
             "topics": [
               "chinese",
               "flash-attention",
@@ -47,7 +47,7 @@
             "open_issues": 9,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7276,
+            "stars": 7277,
             "topics": [
               "chatbot",
               "chinese",
@@ -221,7 +221,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -381,7 +381,7 @@
                 "open_issues": 35,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13645,
+                "stars": 13646,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -402,7 +402,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21864,
+                "stars": 21866,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -464,7 +464,7 @@
                 "open_issues": 9,
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7276,
+                "stars": 7277,
                 "topics": [
                   "chatbot",
                   "chinese",
@@ -555,7 +555,7 @@
                     "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4993,
+                    "stars": 4994,
                     "topics": [
                       "aidoctor",
                       "bloom",
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1329,
+                    "stars": 1330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -790,7 +790,7 @@
                     "open_issues": 16,
                     "owner": "scutcyr",
                     "repo": "SoulChat",
-                    "stars": 765,
+                    "stars": 766,
                     "topics": [
                       "chatbot",
                       "conversational-ai",
@@ -816,7 +816,7 @@
                     "open_issues": 5,
                     "owner": "X-D-Lab",
                     "repo": "MindChat",
-                    "stars": 718,
+                    "stars": 719,
                     "topics": [
                       "baichuan-13b",
                       "chatglm2-6b",
@@ -1156,7 +1156,7 @@
                     "open_issues": 0,
                     "owner": "DUTIR-BioNLP",
                     "repo": "Taiyi-LLM",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": [
                       "bionlp",
                       "llm"
@@ -1484,7 +1484,7 @@
                     "open_issues": 15,
                     "owner": "irlab-sdu",
                     "repo": "fuzi.mingcha",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": [
                       "chatglm-6b",
                       "judicial",
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "siat-nlp",
                     "repo": "HanFei",
-                    "stars": 132,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 52,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21298,
+                    "stars": 21297,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2270,
+                    "stars": 2269,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -2395,7 +2395,7 @@
             "open_issues": 8,
             "owner": "codefuse-ai",
             "repo": "codefuse-devops-eval",
-            "stars": 656,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2491,6 +2491,27 @@
         },
         {
           "node_type": "item",
+          "title": "FinEval",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The FinEval financial domain evaluation benchmark, based on quantitative fundamental methods and developed through long-term objective research, summarization, and rigorous manual screening, utilizes over 26,000 diverse question types that are highly consistent with real-world application scenarios.",
+            "homepage": null,
+            "id": 677947508,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-06-23T03:39:27Z",
+            "open_issues": 5,
+            "owner": "SUFE-AIFLM-Lab",
+            "repo": "FinEval",
+            "stars": 287,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:41:14.278Z"
+        },
+        {
+          "node_type": "item",
           "title": "CFLEB",
           "description": "[paper]",
           "children": [],
@@ -2506,27 +2527,6 @@
             "owner": "supersymmetry-technologies",
             "repo": "BBT-FinCUGE-Applications",
             "stars": 287,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T12:41:14.278Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FinEval",
-          "description": "[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The FinEval financial domain evaluation benchmark, based on quantitative fundamental methods and developed through long-term objective research, summarization, and rigorous manual screening, utilizes over 26,000 diverse question types that are highly consistent with real-world application scenarios.",
-            "homepage": null,
-            "id": 677947508,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-06-23T03:39:27Z",
-            "open_issues": 5,
-            "owner": "SUFE-AIFLM-Lab",
-            "repo": "FinEval",
-            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2785,7 +2785,7 @@
                 "open_issues": 22,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3441,
+                "stars": 3440,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:32:12.203Z",
+    "last_updated": "2026-09-28T06:42:40.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2583,
+      "stars": 2585,
       "topics": [
         "awesome-list",
         "dataset",
