@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21881,
+            "stars": 21880,
             "topics": [
               "chinese",
               "flash-attention",
@@ -100,7 +100,7 @@
             "open_issues": 31,
             "owner": "FudanDISC",
             "repo": "DISC-LawLLM",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "domain-llm",
               "legal-intelligence",
@@ -126,7 +126,7 @@
             "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 895,
+            "stars": 894,
             "topics": [
               "chain-of-retrieval",
               "financial-large-language-model",
@@ -252,7 +252,7 @@
             "open_issues": 6,
             "owner": "SteveKGYang",
             "repo": "MentalLLaMA",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "chatgpt",
               "gpt4",
@@ -305,7 +305,7 @@
             "open_issues": 1,
             "owner": "EmoCareAI",
             "repo": "ChatPsychiatrist",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -360,7 +360,7 @@
                 "open_issues": 534,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59621,
+                "stars": 59620,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -402,7 +402,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21881,
+                "stars": 21880,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -451,7 +451,7 @@
             {
               "node_type": "item",
               "title": "InternLM",
-              "description": null,
+              "description": "InternLM/InternLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,7 +483,7 @@
             {
               "node_type": "item",
               "title": "InternLM/InternLM-techreport",
-              "description": null,
+              "description": "InternLM/InternLM-techreport",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
                 {
                   "node_type": "item",
                   "title": "MedicalGPT",
-                  "description": null,
+                  "description": "shibing624/MedicalGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -526,7 +526,7 @@
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5849,
+                    "stars": 5847,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -542,7 +542,7 @@
                 {
                   "node_type": "item",
                   "title": "BenTsao (本草)",
-                  "description": "[paper]",
+                  "description": "SCIR-HI/Huatuo-Llama-Med-Chinese",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -574,7 +574,7 @@
                 {
                   "node_type": "item",
                   "title": "ChatDoctor",
-                  "description": "[paper]",
+                  "description": "Kent0n-Li/ChatDoctor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -587,7 +587,7 @@
                     "open_issues": 49,
                     "owner": "Kent0n-Li",
                     "repo": "ChatDoctor",
-                    "stars": 3626,
+                    "stars": 3625,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -595,7 +595,7 @@
                 {
                   "node_type": "item",
                   "title": "HuatuoGPT (华佗)",
-                  "description": "[paper]",
+                  "description": "FreedomIntelligence/HuatuoGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1331,
+                    "stars": 1332,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -616,7 +616,7 @@
                 {
                   "node_type": "item",
                   "title": "XrayGLM",
-                  "description": null,
+                  "description": "WangRongsheng/XrayGLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -644,7 +644,7 @@
                 {
                   "node_type": "item",
                   "title": "Med-ChatGLM",
-                  "description": null,
+                  "description": "SCIR-HI/Med-ChatGLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -670,7 +670,7 @@
                 {
                   "node_type": "item",
                   "title": "CareGPT",
-                  "description": null,
+                  "description": "WangRongsheng/CareGPT",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -698,7 +698,7 @@
                 {
                   "node_type": "item",
                   "title": "BianQue (扁鹊)",
-                  "description": "[paper]",
+                  "description": "scutcyr/BianQue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -724,7 +724,7 @@
                 {
                   "node_type": "item",
                   "title": "DoctorGLM",
-                  "description": "[paper]",
+                  "description": "xionghonglin/DoctorGLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -747,7 +747,7 @@
                 {
                   "node_type": "item",
                   "title": "QiZhenGPT",
-                  "description": null,
+                  "description": "CMKRG/QiZhenGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -777,7 +777,7 @@
                 {
                   "node_type": "item",
                   "title": "SoulChat (灵心)",
-                  "description": "[paper]",
+                  "description": "scutcyr/SoulChat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -803,7 +803,7 @@
                 {
                   "node_type": "item",
                   "title": "MindChat (漫谈)",
-                  "description": null,
+                  "description": "X-D-Lab/MindChat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -838,7 +838,7 @@
                 {
                   "node_type": "item",
                   "title": "PMC-LLaMA",
-                  "description": "[paper]",
+                  "description": "chaoyi-wu/PMC-LLaMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -859,7 +859,7 @@
                 {
                   "node_type": "item",
                   "title": "ChatMed",
-                  "description": null,
+                  "description": "michael-wzhu/ChatMed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -880,7 +880,7 @@
                 {
                   "node_type": "item",
                   "title": "DISC-MedLLM",
-                  "description": "[paper]",
+                  "description": "FudanDISC/DISC-MedLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -901,7 +901,7 @@
                 {
                   "node_type": "item",
                   "title": "MeChat",
-                  "description": "[paper]",
+                  "description": "qiuhuachuan/smile",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -922,7 +922,7 @@
                 {
                   "node_type": "item",
                   "title": "ZhongJing (仲景)",
-                  "description": null,
+                  "description": "pariskang/CMLM-ZhongJing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -951,7 +951,7 @@
                 {
                   "node_type": "item",
                   "title": "ShenNong-TCM-LLM (神农)",
-                  "description": null,
+                  "description": "michael-wzhu/ShenNong-TCM-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -972,7 +972,7 @@
                 {
                   "node_type": "item",
                   "title": "PULSE",
-                  "description": null,
+                  "description": "openmedlab/PULSE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -996,7 +996,7 @@
                 {
                   "node_type": "item",
                   "title": "Sunsimiao (孙思邈)",
-                  "description": null,
+                  "description": "X-D-Lab/Sunsimiao",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1027,7 +1027,7 @@
                 {
                   "node_type": "item",
                   "title": "WiNGPT2",
-                  "description": null,
+                  "description": "winninghealth/WiNGPT2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1048,7 +1048,7 @@
                 {
                   "node_type": "item",
                   "title": "Zhongjing-LLaMA (仲景)",
-                  "description": "[paper]",
+                  "description": "SupritYoung/Zhongjing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1069,7 +1069,7 @@
                 {
                   "node_type": "item",
                   "title": "MentalLLaMA",
-                  "description": "[paper]",
+                  "description": "SteveKGYang/MentalLLaMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1082,7 +1082,7 @@
                     "open_issues": 6,
                     "owner": "SteveKGYang",
                     "repo": "MentalLLaMA",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": [
                       "chatgpt",
                       "gpt4",
@@ -1101,7 +1101,7 @@
                 {
                   "node_type": "item",
                   "title": "TCMLLM",
-                  "description": null,
+                  "description": "2020MEAI/TCMLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1122,7 +1122,7 @@
                 {
                   "node_type": "item",
                   "title": "QiaoBan (巧板)",
-                  "description": null,
+                  "description": "HIT-SCIR-SC/QiaoBan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1143,7 +1143,7 @@
                 {
                   "node_type": "item",
                   "title": "Taiyi (太一)",
-                  "description": "[paper]",
+                  "description": "DUTIR-BioNLP/Taiyi-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1167,7 +1167,7 @@
                 {
                   "node_type": "item",
                   "title": "ChatPsychiatrist",
-                  "description": "[paper]",
+                  "description": "EmoCareAI/ChatPsychiatrist",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1180,7 +1180,7 @@
                     "open_issues": 1,
                     "owner": "EmoCareAI",
                     "repo": "ChatPsychiatrist",
-                    "stars": 165,
+                    "stars": 164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1188,7 +1188,7 @@
                 {
                   "node_type": "item",
                   "title": "HuangDI (皇帝)",
-                  "description": null,
+                  "description": "Zlasejd/HuangDI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1215,7 +1215,7 @@
                 {
                   "node_type": "item",
                   "title": "ChiMed-GPT",
-                  "description": "[paper]",
+                  "description": "synlp/ChiMed-GPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1236,7 +1236,7 @@
                 {
                   "node_type": "item",
                   "title": "AlpaCare",
-                  "description": "[paper]",
+                  "description": "XZhang97666/AlpaCare",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1257,7 +1257,7 @@
                 {
                   "node_type": "item",
                   "title": "IvyGPT",
-                  "description": null,
+                  "description": "WangRongsheng/IvyGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1281,7 +1281,7 @@
                 {
                   "node_type": "item",
                   "title": "MING (明医)",
-                  "description": null,
+                  "description": "189569400/MedicalGPT-zh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1309,7 +1309,7 @@
                 {
                   "node_type": "item",
                   "title": "ChatLaw",
-                  "description": "[paper]",
+                  "description": "PKU-YuanGroup/ChatLaw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1330,7 +1330,7 @@
                 {
                   "node_type": "item",
                   "title": "LaWGPT",
-                  "description": null,
+                  "description": "pengxiao-song/LaWGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1351,7 +1351,7 @@
                 {
                   "node_type": "item",
                   "title": "LawGPT_zh (獬豸)",
-                  "description": null,
+                  "description": "LiuHC0428/LAW-GPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1372,7 +1372,7 @@
                 {
                   "node_type": "item",
                   "title": "LexiLaw",
-                  "description": null,
+                  "description": "CSHaitao/LexiLaw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1393,7 +1393,7 @@
                 {
                   "node_type": "item",
                   "title": "Lawyer LLaMA",
-                  "description": "[paper]",
+                  "description": "AndrewZhe/lawyer-llama",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1424,7 +1424,7 @@
                 {
                   "node_type": "item",
                   "title": "DISC-LawLLM",
-                  "description": "[paper]",
+                  "description": "FudanDISC/DISC-LawLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1437,7 +1437,7 @@
                     "open_issues": 31,
                     "owner": "FudanDISC",
                     "repo": "DISC-LawLLM",
-                    "stars": 954,
+                    "stars": 953,
                     "topics": [
                       "domain-llm",
                       "legal-intelligence",
@@ -1450,7 +1450,7 @@
                 {
                   "node_type": "item",
                   "title": "wisdomInterrogatory (智海-录问)",
-                  "description": null,
+                  "description": "zhihaiLLM/wisdomInterrogatory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1471,7 +1471,7 @@
                 {
                   "node_type": "item",
                   "title": "夫子•明察",
-                  "description": null,
+                  "description": "irlab-sdu/fuzi.mingcha",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1502,7 +1502,7 @@
                 {
                   "node_type": "item",
                   "title": "HanFei (韩非)",
-                  "description": null,
+                  "description": "siat-nlp/HanFei",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1523,7 +1523,7 @@
                 {
                   "node_type": "item",
                   "title": "Lychee (律知)",
-                  "description": null,
+                  "description": "davidpig/lychee_law",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1544,7 +1544,7 @@
                 {
                   "node_type": "item",
                   "title": "JurisLMs",
-                  "description": null,
+                  "description": "SEUIAI/JurisLMs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1585,7 +1585,7 @@
                     "open_issues": 52,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21310,
+                    "stars": 21307,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1607,7 +1607,7 @@
                 {
                   "node_type": "item",
                   "title": "FinGLM",
-                  "description": null,
+                  "description": "MetaGLM/FinGLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2271,
+                    "stars": 2270,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -1634,7 +1634,7 @@
                 {
                   "node_type": "item",
                   "title": "XuanYuan (轩辕)",
-                  "description": "[paper]",
+                  "description": "Duxiaoman-DI/XuanYuan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1655,7 +1655,7 @@
                 {
                   "node_type": "item",
                   "title": "DISC-FinLLM",
-                  "description": "[paper]",
+                  "description": "FudanDISC/DISC-FinLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1668,7 +1668,7 @@
                     "open_issues": 22,
                     "owner": "FudanDISC",
                     "repo": "DISC-FinLLM",
-                    "stars": 895,
+                    "stars": 894,
                     "topics": [
                       "chain-of-retrieval",
                       "financial-large-language-model",
@@ -1682,7 +1682,7 @@
                 {
                   "node_type": "item",
                   "title": "PIXIU (貔貅)",
-                  "description": "[paper]",
+                  "description": "The-FinAI/PIXIU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1695,7 +1695,7 @@
                     "open_issues": 13,
                     "owner": "The-FinAI",
                     "repo": "PIXIU",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "aifinance",
                       "chatgpt",
@@ -1719,7 +1719,7 @@
                 {
                   "node_type": "item",
                   "title": "Cornucopia (聚宝盆)",
-                  "description": null,
+                  "description": "jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1751,7 +1751,7 @@
                 {
                   "node_type": "item",
                   "title": "BBT-FinCUGE-Applications",
-                  "description": "[paper]",
+                  "description": "supersymmetry-technologies/BBT-FinCUGE-Applications",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1772,7 +1772,7 @@
                 {
                   "node_type": "item",
                   "title": "InvestLM",
-                  "description": "[paper]",
+                  "description": "AbaciNLP/InvestLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1793,7 +1793,7 @@
                 {
                   "node_type": "item",
                   "title": "WeaverBird (织工鸟)",
-                  "description": "[paper]",
+                  "description": "alipay/fin_domain_llm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1819,7 +1819,7 @@
                 {
                   "node_type": "item",
                   "title": "FLANG",
-                  "description": "[paper]",
+                  "description": "SALT-NLP/FLANG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1847,7 +1847,7 @@
                 {
                   "node_type": "item",
                   "title": "EduChat",
-                  "description": "[paper]",
+                  "description": "ECNU-ICALK/EduChat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1877,7 +1877,7 @@
                 {
                   "node_type": "item",
                   "title": "桃李 (Taoli)",
-                  "description": null,
+                  "description": "blcuicall/taoli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1905,7 +1905,7 @@
                 {
                   "node_type": "item",
                   "title": "SecGPT",
-                  "description": null,
+                  "description": "Clouditera/SecGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1926,7 +1926,7 @@
                 {
                   "node_type": "item",
                   "title": "YaYi (雅意)",
-                  "description": null,
+                  "description": "wenge-research/YAYI",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1977,7 +1977,7 @@
                 {
                   "node_type": "item",
                   "title": "TransGPT (致远)",
-                  "description": null,
+                  "description": "DUOMO/TransGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1998,7 +1998,7 @@
                 {
                   "node_type": "item",
                   "title": "DevOps-Model",
-                  "description": null,
+                  "description": "codefuse-ai/CodeFuse-DevOps-Model",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2019,7 +2019,7 @@
                 {
                   "node_type": "item",
                   "title": "AutoAudit",
-                  "description": null,
+                  "description": "ddzipp/AutoAudit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2048,7 +2048,7 @@
                 {
                   "node_type": "item",
                   "title": "StarWhisper (星语)",
-                  "description": null,
+                  "description": "Yu-Yang-Li/StarWhisper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2061,7 +2061,7 @@
                     "open_issues": 12,
                     "owner": "Yu-Yang-Li",
                     "repo": "StarWhisper",
-                    "stars": 328,
+                    "stars": 329,
                     "topics": [
                       "agents",
                       "ai4s",
@@ -2078,7 +2078,7 @@
                 {
                   "node_type": "item",
                   "title": "EcomGPT",
-                  "description": "[paper]",
+                  "description": "Alibaba-NLP/EcomGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2099,7 +2099,7 @@
                 {
                   "node_type": "item",
                   "title": "OWL",
-                  "description": "[paper]",
+                  "description": "HC-Guo/OWL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2120,7 +2120,7 @@
                 {
                   "node_type": "item",
                   "title": "TechGPT",
-                  "description": null,
+                  "description": "neukg/TechGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2141,7 +2141,7 @@
                 {
                   "node_type": "item",
                   "title": "K2",
-                  "description": "[paper]",
+                  "description": "davendw49/k2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2170,7 +2170,7 @@
                 {
                   "node_type": "item",
                   "title": "Mozi (墨子)",
-                  "description": "[paper]",
+                  "description": "gmftbyGMFTBY/science-llm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2191,7 +2191,7 @@
                 {
                   "node_type": "item",
                   "title": "MarineGPT",
-                  "description": "[paper]",
+                  "description": "hkust-vgd/MarineGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2212,7 +2212,7 @@
                 {
                   "node_type": "item",
                   "title": "AgriGPT",
-                  "description": null,
+                  "description": "AgriGPTs/AgriGPTs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2252,7 +2252,7 @@
         {
           "node_type": "item",
           "title": "C-Eval",
-          "description": "[paper]",
+          "description": "hkust-nlp/ceval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2273,7 +2273,7 @@
         {
           "node_type": "item",
           "title": "FLARE",
-          "description": "[paper]",
+          "description": "The-FinAI/PIXIU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2286,7 +2286,7 @@
             "open_issues": 13,
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "aifinance",
               "chatgpt",
@@ -2310,7 +2310,7 @@
         {
           "node_type": "item",
           "title": "CBLUE",
-          "description": "[paper]",
+          "description": "CBLUEbenchmark/CBLUE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2340,7 +2340,7 @@
         {
           "node_type": "item",
           "title": "CMMLU",
-          "description": "[paper]",
+          "description": "haonan-li/CMMLU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2361,7 +2361,7 @@
         {
           "node_type": "item",
           "title": "AGIEval",
-          "description": "[paper]",
+          "description": "ruixiangcui/AGIEval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2382,7 +2382,7 @@
         {
           "node_type": "item",
           "title": "DevOps-Eval",
-          "description": null,
+          "description": "codefuse-ai/codefuse-devops-eval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2403,7 +2403,7 @@
         {
           "node_type": "item",
           "title": "LegalBench",
-          "description": "[paper]",
+          "description": "HazyResearch/legalbench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2424,7 +2424,7 @@
         {
           "node_type": "item",
           "title": "LawBench",
-          "description": "[paper]",
+          "description": "open-compass/LawBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2450,7 +2450,7 @@
         {
           "node_type": "item",
           "title": "PromptCBLUE",
-          "description": "[paper]",
+          "description": "michael-wzhu/PromptCBLUE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2471,7 +2471,7 @@
         {
           "node_type": "item",
           "title": "FinanceBench",
-          "description": "[paper]",
+          "description": "patronus-ai/financebench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2492,7 +2492,7 @@
         {
           "node_type": "item",
           "title": "FinEval",
-          "description": "[paper]",
+          "description": "SUFE-AIFLM-Lab/FinEval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2513,7 +2513,7 @@
         {
           "node_type": "item",
           "title": "CFLEB",
-          "description": "[paper]",
+          "description": "supersymmetry-technologies/BBT-FinCUGE-Applications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2534,7 +2534,7 @@
         {
           "node_type": "item",
           "title": "LexGLUE",
-          "description": "[paper]",
+          "description": "coastalcph/lex-glue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2561,7 +2561,7 @@
         {
           "node_type": "item",
           "title": "OWL-Bench",
-          "description": "[paper]",
+          "description": "HC-Guo/OWL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2582,7 +2582,7 @@
         {
           "node_type": "item",
           "title": "Xiezhi (獬豸)",
-          "description": "[paper]",
+          "description": "MikeGu721/XiezhiBenchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2603,7 +2603,7 @@
         {
           "node_type": "item",
           "title": "LAiW",
-          "description": "[paper]",
+          "description": "Dai-shen/LAiW",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2624,7 +2624,7 @@
         {
           "node_type": "item",
           "title": "MMCU",
-          "description": "[paper]",
+          "description": "Felixgithub2017/MMCU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2645,7 +2645,7 @@
         {
           "node_type": "item",
           "title": "CFBenchmark",
-          "description": "[paper]",
+          "description": "TongjiFinLab/CFBenchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2666,7 +2666,7 @@
         {
           "node_type": "item",
           "title": "FLUE",
-          "description": "[paper]",
+          "description": "SALT-NLP/FLANG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2687,7 +2687,7 @@
         {
           "node_type": "item",
           "title": "LEXTREME",
-          "description": "[paper]",
+          "description": "JoelNiklaus/LEXTREME",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2708,7 +2708,7 @@
         {
           "node_type": "item",
           "title": "CG-Eval",
-          "description": "[paper]",
+          "description": "Felixgithub2017/CG-Eval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2737,7 +2737,7 @@
             {
               "node_type": "item",
               "title": "Awesome AIGC Tutorials",
-              "description": null,
+              "description": "luban-agi/Awesome-AIGC-Tutorials",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2750,7 +2750,7 @@
                 "open_issues": 11,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4548,
+                "stars": 4549,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2772,7 +2772,7 @@
             {
               "node_type": "item",
               "title": "Awesome Code LLM",
-              "description": null,
+              "description": "codefuse-ai/Awesome-Code-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2782,10 +2782,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-20T07:33:12Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3441,
+                "stars": 3443,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2803,7 +2803,7 @@
             {
               "node_type": "item",
               "title": "CodeFuse-ChatBot",
-              "description": null,
+              "description": "codefuse-ai/codefuse-chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2836,7 +2836,7 @@
             {
               "node_type": "item",
               "title": "Awesome Tool Learning",
-              "description": null,
+              "description": "luban-agi/Awesome-Tool-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2863,7 +2863,7 @@
             {
               "node_type": "item",
               "title": "Awesome LLM reasoning",
-              "description": null,
+              "description": "luban-agi/Awesome-LLM-reasoning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:56:53.279Z",
+    "last_updated": "2026-10-03T04:28:52.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 2,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2585,
+      "stars": 2584,
       "topics": [
         "awesome-list",
         "dataset",
