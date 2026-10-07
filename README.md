@@ -17,9 +17,9 @@
 
 ## 🔔 更新
 
-* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,890 | 🐛 44 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
+* \[2023/9/25] 更新[Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,890 | 🐛 45 | 🌐 Python | 📅 2026-03-05，新增Qwen-14B和Qwen-14B-Chat模型，并更新Qwen-7B和Qwen-7B-Chat模型。相比原版Qwen-7B，新版使用更多训练数据 (2.4T token)，序列长度从2048扩展至8192。整体中文能力以及代码能力提升较多。
 * \[2023/9/22] 增加[InternLM(书生•浦语)](https://github.com/InternLM/InternLM) ⭐ 7,278 | 🐛 9 | 🌐 Python | 📅 2025-10-30，上海AI实验室与商汤科技联合香港中文大学和复旦大学开源的多语基座模型。
-* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,110 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 108 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 368 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
+* \[2023/11/26] 增强网络安全大模型[SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,111 | 🐛 52 | 🌐 Python | 📅 2025-06-25、医疗大模型[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 108 | 🐛 5 | 📅 2023-12-29、金融大模型[Tongyi-Finance-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)、金融评测基准[FinanceBench](https://github.com/patronus-ai/financebench) ⭐ 368 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-12-03和[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2025-07-30。
 * \[2023/10/01] 增加[DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 954 | 🐛 31 | 🌐 Python | 📅 2025-05-27，由复旦大学开源的旨在为用户提供专业、智能、全面的法律服务的法律领域大模型。增加[FinGLM](https://github.com/MetaGLM/FinGLM) ⭐ 2,271 | 🐛 7 | 🌐 HTML | 📅 2024-05-08，致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
 * \[2023/10/28] 增加金融大模型[DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ 894 | 🐛 22 | 🌐 Python | 📅 2023-11-01、医学大模型[AlpaCare](https://github.com/XZhang97666/AlpaCare) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2025-02-08、海洋大模型[MarineGPT](https://github.com/hkust-vgd/MarineGPT) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2024-03-02。
 * \[2023/11/01] 增加由蚂蚁集团联合北京大学发布的DevOps领域大模型[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) ⚠️ Archived和评测基准[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval) ⭐ 655 | 🐛 8 | 🌐 Python | 📅 2024-07-10。
@@ -55,10 +55,10 @@
 
 |                                                   模型                                                   |                                 大小                                 |                                             机构                                            |                                                       论文                                                       |
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|  [LLaMA2](https://github.com/facebookresearch/llama) ⭐ 59,616 \| 🐛 534 \| 🌐 Python \| 📅 2025-01-26  |           7B/7B-Chat <br> 13B/13B-Chat <br> 70B/70B-Chat           |                                [Meta](https://ai.meta.com/)                               |                                    [paper](https://arxiv.org/abs/2307.09288)                                   |
+|  [LLaMA2](https://github.com/facebookresearch/llama) ⭐ 59,619 \| 🐛 535 \| 🌐 Python \| 📅 2025-01-26  |           7B/7B-Chat <br> 13B/13B-Chat <br> 70B/70B-Chat           |                                [Meta](https://ai.meta.com/)                               |                                    [paper](https://arxiv.org/abs/2307.09288)                                   |
 |    [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) ⭐ 13,643 \| 🐛 36 \| 🌐 Python \| 📅 2025-01-13    |                          6B-Base/6B/6B-32K                         | [清华大学](https://github.com/THUDM/ChatGLM3) ⭐ 13,643 \| 🐛 36 \| 🌐 Python \| 📅 2025-01-13 |                                    [paper](https://arxiv.org/abs/2210.02414)                                   |
-|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,890 \| 🐛 44 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
-| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,083 \| 🐛 282 \| 🌐 Python \| 📅 2024-11-08 |                    7B/7B-Chat <br> 13B/13B-Chat                    |                          [百川智能](https://www.baichuan-ai.com/home)                         |                                    [paper](https://arxiv.org/abs/2309.10305)                                   |
+|         [Qwen](https://github.com/QwenLM/Qwen) ⭐ 21,890 \| 🐛 45 \| 🌐 Python \| 📅 2026-03-05         | 1.8B/1.8B-Chat <br> 7B/7B-Chat <br> 14B/14B-Chat <br> 72B/72B-Chat |                             [阿里云](https://qianwen.aliyun.com/)                            |                                    [paper](https://arxiv.org/abs/2309.16609)                                   |
+| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) ⭐ 4,082 \| 🐛 282 \| 🌐 Python \| 📅 2024-11-08 |                    7B/7B-Chat <br> 13B/13B-Chat                    |                          [百川智能](https://www.baichuan-ai.com/home)                         |                                    [paper](https://arxiv.org/abs/2309.10305)                                   |
 |     [InternLM](https://github.com/InternLM/InternLM) ⭐ 7,278 \| 🐛 9 \| 🌐 Python \| 📅 2025-10-30     |                    7B/7B-Chat <br> 20B/20B-Chat                    |                        [上海AI实验室](https://internlm.intern-ai.org.cn)                       | [paper](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf) ⭐ 890 \| 🐛 6 \| 📅 2023-06-07 |
 
 ### 🧩 领域模型
@@ -74,7 +74,7 @@
   \[[paper](https://arxiv.org/abs/2304.06975)]
   * 该项目开源了经过中文医学指令微调的大语言模型集，包括LLaMA、Alpaca-Chinese、Bloom、活字模型等。我们基于医学知识图谱以及医学文献，结合ChatGPT API构建了中文医学指令微调数据集，并以此对各种基模型进行了指令微调，提高了基模型在医疗领域的问答效果。
 
-* [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,625 | 🐛 49 | 🌐 Python | 📅 2024-05-17
+* [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,624 | 🐛 49 | 🌐 Python | 📅 2024-05-17
   ![](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg?style=social)
   \[[paper](https://arxiv.org/abs/2303.14070)]
   * 该项目开源了医疗大模型ChatDoctor，在LLaMA的基础上训练得到。
@@ -88,7 +88,7 @@
   ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM.svg?style=social)
   * 该项目开源了中文多模态医学数据集及模型，其在医学影像诊断和多轮交互对话上显示出了非凡的潜力。
 
-* [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) ⭐ 1,042 | 🐛 31 | 🌐 Python | 📅 2023-05-19
+* [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) ⭐ 1,041 | 🐛 31 | 🌐 Python | 📅 2023-05-19
   ![](https://img.shields.io/github/stars/SCIR-HI/Med-ChatGLM.svg?style=social)
   * 该项目开源了经过中文医学指令微调的ChatGLM-6B模型，微调数据与BenTsao相同。
 
@@ -101,7 +101,7 @@
   \[[paper](https://arxiv.org/abs/2310.15896)]
   * 该项目开源了生活空间健康大模型。结合当前开源的中文医疗问答数据集（MedDialog-CN、IMCS-V2、CHIP-MDCFNPC、MedDG、cMedQA2、Chinese-medical-dialogue-data），分析其中的单轮/多轮特性以及医生问询特性，结合自建的生活空间健康对话大数据，构建了千万级别规模的扁鹊健康大数据BianQueCorpus，基于扁鹊健康大数据BianQueCorpus，选择ChatGLM-6B作为初始化模型，经过全量参数的指令微调训练得到BianQue。
 
-* [DoctorGLM](https://github.com/xionghonglin/DoctorGLM) ⭐ 832 | 🐛 20 | 🌐 Python | 📅 2023-10-19
+* [DoctorGLM](https://github.com/xionghonglin/DoctorGLM) ⭐ 831 | 🐛 20 | 🌐 Python | 📅 2023-10-19
   ![](https://img.shields.io/github/stars/xionghonglin/DoctorGLM.svg?style=social)
   \[[paper](https://arxiv.org/abs/2304.01097)]
   * 基于ChatGLM-6B的中文问诊模型，通过中文医疗对话数据集进行微调，实现了包括lora、p-tuningv2等微调及部署。
@@ -124,7 +124,7 @@
   \[[paper](https://arxiv.org/abs/2304.14454)]
   * 该项目开源了医疗大模型PMC-LLaMA，包括预训练版本的MedLLaMA\_13B和指令微调版本的PMC\_LLaMA\_13B。
 
-* [ChatMed](https://github.com/michael-wzhu/ChatMed) ⭐ 631 | 🐛 9 | 🌐 Python | 📅 2023-07-16
+* [ChatMed](https://github.com/michael-wzhu/ChatMed) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2023-07-16
   ![](https://img.shields.io/github/stars/michael-wzhu/ChatMed.svg?style=social)
   * 该项目开源了中文医疗大模型ChatMed-Consult，以中文医疗在线问诊数据集ChatMed\_Consult\_Dataset的50w+在线问诊+ChatGPT回复作为训练集，基于LlaMA-7b采用LoRA微调得到。
 
@@ -259,7 +259,7 @@
 
 #### 💰 金融
 
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,354 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-09-23
+* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,361 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-09-23
   ![](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT.svg?style=social)
   \[[paper1](https://arxiv.org/abs/2306.06031)]
   \[[paper2](https://arxiv.org/abs/2310.04793)]
@@ -324,7 +324,7 @@
 
 #### ➕ 其他
 
-* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,110 | 🐛 52 | 🌐 Python | 📅 2025-06-25
+* [SecGPT](https://github.com/Clouditera/secgpt) ⭐ 3,111 | 🐛 52 | 🌐 Python | 📅 2025-06-25
   ![](https://img.shields.io/github/stars/Clouditera/secgpt.svg?style=social)
   ![](https://img.shields.io/badge/安全-blue)
   * 该项目开源了网络安全大模型SecGPT，该模型基于Baichuan-13B采用Lora做预训练和SFT训练，还开源了相关预训练和指令微调数据集。
@@ -553,9 +553,9 @@
 
 ### 🤝 友情链接
 
-* [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,550 | 🐛 10 | 📅 2024-03-31
+* [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,553 | 🐛 10 | 📅 2024-03-31
   * 该项目收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者。
-* [Awesome Code LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ⭐ 3,444 | 🐛 23 | 📅 2026-05-20
+* [Awesome Code LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ⭐ 3,446 | 🐛 23 | 📅 2026-05-20
   * 该项目收集了代码大模型相关论文，并整理出一篇综述。
 * [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) ⭐ 1,293 | 🐛 8 | 🌐 Python | 📅 2024-07-01
   * CodeFuse-ChatBot是由蚂蚁CodeFuse团队开发的开源AI智能助手，致力于简化和优化软件开发生命周期中的各个环节。
@@ -566,4 +566,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
