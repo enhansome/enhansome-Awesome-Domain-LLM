@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 41,
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21920,
+            "stars": 21925,
             "topics": [
               "chinese",
               "flash-attention",
@@ -79,7 +79,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3116,
+            "stars": 3117,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -360,7 +360,7 @@
                 "open_issues": 536,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59630,
+                "stars": 59634,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -399,10 +399,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 41,
+                "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21920,
+                "stars": 21925,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -629,7 +629,7 @@
                     "open_issues": 28,
                     "owner": "WangRongsheng",
                     "repo": "XrayGLM",
-                    "stars": 1087,
+                    "stars": 1088,
                     "topics": [
                       "large-language-models",
                       "llms",
@@ -935,7 +935,7 @@
                     "open_issues": 10,
                     "owner": "pariskang",
                     "repo": "CMLM-ZhongJing",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "chatbot",
                       "chinese-medicine",
@@ -1040,7 +1040,7 @@
                     "open_issues": 2,
                     "owner": "winninghealth",
                     "repo": "WiNGPT2",
-                    "stars": 437,
+                    "stars": 438,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1322,7 +1322,7 @@
                     "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7622,
+                    "stars": 7623,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 54,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21411,
+                    "stars": 21413,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1918,7 +1918,7 @@
                     "open_issues": 52,
                     "owner": "Clouditera",
                     "repo": "SecGPT",
-                    "stars": 3116,
+                    "stars": 3117,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1966,7 +1966,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-22T09:05:56Z",
-                    "open_issues": 40,
+                    "open_issues": 39,
                     "owner": "PharMolix",
                     "repo": "OpenBioMed",
                     "stars": 1106,
@@ -2265,7 +2265,7 @@
             "open_issues": 6,
             "owner": "hkust-nlp",
             "repo": "ceval",
-            "stars": 1873,
+            "stars": 1874,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2484,7 +2484,7 @@
             "open_issues": 11,
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2505,7 +2505,7 @@
             "open_issues": 5,
             "owner": "SUFE-AIFLM-Lab",
             "repo": "FinEval",
-            "stars": 289,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2747,10 +2747,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-03-31T09:18:04Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4555,
+                "stars": 4556,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2785,7 +2785,7 @@
                 "open_issues": 23,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3447,
+                "stars": 3446,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:45:46.373Z",
+    "last_updated": "2026-10-17T05:31:11.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
@@ -2908,7 +2908,7 @@
       "open_issues": 1,
       "owner": "luban-agi",
       "repo": "Awesome-Domain-LLM",
-      "stars": 2582,
+      "stars": 2583,
       "topics": [
         "awesome-list",
         "dataset",
