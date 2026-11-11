@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22021,
+            "stars": 22027,
             "topics": [
               "chinese",
               "flash-attention",
@@ -360,7 +360,7 @@
                 "open_issues": 538,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59621,
+                "stars": 59625,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -381,7 +381,7 @@
                 "open_issues": 36,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13632,
+                "stars": 13633,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -399,10 +399,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22021,
+                "stars": 22027,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -526,7 +526,7 @@
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5890,
+                    "stars": 5891,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "FreedomIntelligence",
                     "repo": "HuatuoGPT",
-                    "stars": 1335,
+                    "stars": 1334,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -893,7 +893,7 @@
                     "open_issues": 16,
                     "owner": "FudanDISC",
                     "repo": "DISC-MedLLM",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1322,7 +1322,7 @@
                     "open_issues": 66,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7631,
+                    "stars": 7632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1385,7 +1385,7 @@
                     "open_issues": 53,
                     "owner": "CSHaitao",
                     "repo": "LexiLaw",
-                    "stars": 1053,
+                    "stars": 1054,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1585,7 +1585,7 @@
                     "open_issues": 53,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21546,
+                    "stars": 21549,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -2323,7 +2323,7 @@
             "open_issues": 0,
             "owner": "CBLUEbenchmark",
             "repo": "CBLUE",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "acl2022",
               "benchmark",
@@ -2381,6 +2381,27 @@
         },
         {
           "node_type": "item",
+          "title": "LegalBench",
+          "description": "HazyResearch/legalbench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open science effort to benchmark legal reasoning in foundation models",
+            "homepage": null,
+            "id": 526713161,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-30T05:23:35Z",
+            "open_issues": 22,
+            "owner": "HazyResearch",
+            "repo": "legalbench",
+            "stars": 657,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:41:14.278Z"
+        },
+        {
+          "node_type": "item",
           "title": "DevOps-Eval",
           "description": "codefuse-ai/codefuse-devops-eval",
           "children": [],
@@ -2396,27 +2417,6 @@
             "owner": "codefuse-ai",
             "repo": "codefuse-devops-eval",
             "stars": 657,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T12:41:14.278Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LegalBench",
-          "description": "HazyResearch/legalbench",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An open science effort to benchmark legal reasoning in foundation models",
-            "homepage": null,
-            "id": 526713161,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-03-30T05:23:35Z",
-            "open_issues": 22,
-            "owner": "HazyResearch",
-            "repo": "legalbench",
-            "stars": 655,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2750,7 +2750,7 @@
                 "open_issues": 12,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4567,
+                "stars": 4565,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2785,7 +2785,7 @@
                 "open_issues": 25,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3454,
+                "stars": 3455,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:18:51.819Z",
+    "last_updated": "2026-11-11T07:41:55.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
