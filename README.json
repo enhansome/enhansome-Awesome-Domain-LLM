@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22053,
+            "stars": 22057,
             "topics": [
               "chinese",
               "flash-attention",
@@ -174,7 +174,7 @@
             "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "benchmark",
               "chatgpt",
@@ -221,7 +221,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -360,7 +360,7 @@
                 "open_issues": 537,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59631,
+                "stars": 59632,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -381,7 +381,7 @@
                 "open_issues": 36,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13628,
+                "stars": 13631,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -402,7 +402,7 @@
                 "open_issues": 39,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22053,
+                "stars": 22057,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -526,7 +526,7 @@
                     "open_issues": 6,
                     "owner": "shibing624",
                     "repo": "MedicalGPT",
-                    "stars": 5898,
+                    "stars": 5900,
                     "topics": [
                       "chatgpt",
                       "dpo",
@@ -900,6 +900,35 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ZhongJing (仲景)",
+                  "description": "pariskang/CMLM-ZhongJing",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。  The first-ever Traditional Chinese Medicine large language model - \"CMLM-ZhongJing\". Inspired by the profound wisdom of the ancient Chinese medical master Zhang Zhongjing, it is a pre-trained large language model designed specifically for the field of Traditional Chinese Medicine.",
+                    "homepage": null,
+                    "id": 647523556,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-06-10T06:36:59Z",
+                    "open_issues": 10,
+                    "owner": "pariskang",
+                    "repo": "CMLM-ZhongJing",
+                    "stars": 538,
+                    "topics": [
+                      "chatbot",
+                      "chinese-medicine",
+                      "chinese-medicine-tcm",
+                      "cmlm-zhongjing",
+                      "large-language-models",
+                      "zhngzhongjing",
+                      "zhongjinggpt"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:41:14.278Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "MeChat",
                   "description": "qiuhuachuan/smile",
                   "children": [],
@@ -916,35 +945,6 @@
                     "repo": "smile",
                     "stars": 538,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T12:41:14.278Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ZhongJing (仲景)",
-                  "description": "pariskang/CMLM-ZhongJing",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。  The first-ever Traditional Chinese Medicine large language model - \"CMLM-ZhongJing\". Inspired by the profound wisdom of the ancient Chinese medical master Zhang Zhongjing, it is a pre-trained large language model designed specifically for the field of Traditional Chinese Medicine.",
-                    "homepage": null,
-                    "id": 647523556,
-                    "language": "Jupyter Notebook",
-                    "license": "MIT",
-                    "last_commit": "2026-06-10T06:36:59Z",
-                    "open_issues": 10,
-                    "owner": "pariskang",
-                    "repo": "CMLM-ZhongJing",
-                    "stars": 537,
-                    "topics": [
-                      "chatbot",
-                      "chinese-medicine",
-                      "chinese-medicine-tcm",
-                      "cmlm-zhongjing",
-                      "large-language-models",
-                      "zhngzhongjing",
-                      "zhongjinggpt"
-                    ]
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
                 },
@@ -1343,7 +1343,7 @@
                     "open_issues": 87,
                     "owner": "pengxiao-song",
                     "repo": "LaWGPT",
-                    "stars": 6052,
+                    "stars": 6051,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1484,7 +1484,7 @@
                     "open_issues": 15,
                     "owner": "irlab-sdu",
                     "repo": "fuzi.mingcha",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "chatglm-6b",
                       "judicial",
@@ -1582,10 +1582,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-10-25T13:49:15Z",
-                    "open_issues": 53,
+                    "open_issues": 55,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinGPT",
-                    "stars": 21584,
+                    "stars": 21590,
                     "topics": [
                       "chatgpt",
                       "finance",
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2271,
+                    "stars": 2272,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -2061,7 +2061,7 @@
                     "open_issues": 12,
                     "owner": "Yu-Yang-Li",
                     "repo": "StarWhisper",
-                    "stars": 331,
+                    "stars": 332,
                     "topics": [
                       "agents",
                       "ai4s",
@@ -2395,7 +2395,7 @@
             "open_issues": 22,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 660,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2437,7 +2437,7 @@
             "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "benchmark",
               "chatgpt",
@@ -2484,7 +2484,7 @@
             "open_issues": 12,
             "owner": "patronus-ai",
             "repo": "financebench",
-            "stars": 391,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2750,7 +2750,7 @@
                 "open_issues": 13,
                 "owner": "luban-agi",
                 "repo": "Awesome-AIGC-Tutorials",
-                "stars": 4568,
+                "stars": 4571,
                 "topics": [
                   "ai",
                   "aigc",
@@ -2785,7 +2785,7 @@
                 "open_issues": 26,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3456,
+                "stars": 3455,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:05:10.737Z",
+    "last_updated": "2026-11-18T08:27:46.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
