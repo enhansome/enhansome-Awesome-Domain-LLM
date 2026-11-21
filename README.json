@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 40,
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22063,
+            "stars": 22064,
             "topics": [
               "chinese",
               "flash-attention",
@@ -378,10 +378,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-01-13T06:55:26Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "zai-org",
                 "repo": "ChatGLM3",
-                "stars": 13629,
+                "stars": 13627,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:14.278Z"
@@ -399,10 +399,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 40,
+                "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22063,
+                "stars": 22064,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -555,7 +555,7 @@
                     "open_issues": 28,
                     "owner": "SCIR-HI",
                     "repo": "Huatuo-Llama-Med-Chinese",
-                    "stars": 4999,
+                    "stars": 4998,
                     "topics": [
                       "aidoctor",
                       "bloom",
@@ -657,7 +657,7 @@
                     "open_issues": 31,
                     "owner": "SCIR-HI",
                     "repo": "Med-ChatGLM",
-                    "stars": 1042,
+                    "stars": 1041,
                     "topics": [
                       "chinese",
                       "medical",
@@ -1322,7 +1322,7 @@
                     "open_issues": 66,
                     "owner": "PKU-YuanGroup",
                     "repo": "ChatLaw",
-                    "stars": 7631,
+                    "stars": 7632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1385,7 +1385,7 @@
                     "open_issues": 53,
                     "owner": "CSHaitao",
                     "repo": "LexiLaw",
-                    "stars": 1057,
+                    "stars": 1058,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:41:14.278Z"
@@ -1620,7 +1620,7 @@
                     "open_issues": 7,
                     "owner": "MetaGLM",
                     "repo": "FinGLM",
-                    "stars": 2272,
+                    "stars": 2271,
                     "topics": [
                       "chatglm",
                       "finacial",
@@ -2395,7 +2395,7 @@
             "open_issues": 22,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 662,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:14.278Z"
@@ -2896,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:24:50.132Z",
+    "last_updated": "2026-11-21T08:12:25.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集和梳理垂直领域的开源模型、数据集及评测基准。",
